@@ -1,0 +1,547 @@
+[
+    {
+        "texture_name": "2notherbuildsfe",
+        "object_texture": "10101 2notherbuildsfe Bow_church_grass_alt",
+        "image": "Bow_church_grass_alt"
+    },
+    {
+        "texture_name": "2notherbuildsfe",
+        "object_texture": "10101 2notherbuildsfe Bow_Abpave_Gen",
+        "image": "Bow_Abpave_Gen"
+    },
+    {
+        "texture_name": "2notherbuildsfe",
+        "object_texture": "10101 2notherbuildsfe sl_vicwall02",
+        "image": "sl_vicwall02"
+    },
+    {
+        "texture_name": "2notherbuildsfe",
+        "object_texture": "10101 2notherbuildsfe sl_vicwin02",
+        "image": "sl_vicwin02"
+    },
+    {
+        "texture_name": "2notherbuildsfe",
+        "object_texture": "10101 2notherbuildsfe sl_vicbrikwall01",
+        "image": "sl_vicbrikwall01"
+    },
+    {
+        "texture_name": "2notherbuildsfe",
+        "object_texture": "10101 2notherbuildsfe ws_rooftarmac1",
+        "image": "ws_rooftarmac1"
+    },
+    {
+        "texture_name": "2notherbuildsfe",
+        "object_texture": "10101 2notherbuildsfe ferry_build14",
+        "image": "ferry_build14"
+    },
+    {
+        "texture_name": "2notherbuildsfe",
+        "object_texture": "10101 2notherbuildsfe flatdoor01_law",
+        "image": "flatdoor01_law"
+    },
+    {
+        "texture_name": "2notherbuildsfe",
+        "object_texture": "10101 2notherbuildsfe sl_vierfedge",
+        "image": "sl_vierfedge"
+    },
+    {
+        "texture_name": "2notherbuildsfe",
+        "object_texture": "10101 2notherbuildsfe sl_vicwall01",
+        "image": "sl_vicwall01"
+    },
+    {
+        "texture_name": "2notherbuildsfe",
+        "object_texture": "10101 2notherbuildsfe sl_vicwin01",
+        "image": "sl_vicwin01"
+    },
+    {
+        "texture_name": "2notherbuildsfe",
+        "object_texture": "10101 2notherbuildsfe gz_vicdoor1",
+        "image": "gz_vicdoor1"
+    },
+    {
+        "texture_name": "2notherbuildsfe",
+        "object_texture": "10101 2notherbuildsfe gz_vicdoor2",
+        "image": "gz_vicdoor2"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 wallgreyred128",
+        "image": "wallgreyred128"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 dam_gencon",
+        "image": "dam_gencon"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 ws_metalpanel1",
+        "image": "ws_metalpanel1"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 a51_boffstuff3",
+        "image": "a51_boffstuff3"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 scratchedmetal",
+        "image": "scratchedmetal"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 Metal3_128",
+        "image": "Metal3_128"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 Metalox64",
+        "image": "Metalox64"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 vgs_shopwall01_128",
+        "image": "vgs_shopwall01_128"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 a51_handrail",
+        "image": "a51_handrail"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 a51_metal1",
+        "image": "a51_metal1"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 a51_wall1",
+        "image": "a51_wall1"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 stormdrain7",
+        "image": "stormdrain7"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 bonyrd_skin2",
+        "image": "bonyrd_skin2"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 concreteyellow256 copy",
+        "image": "concreteyellow256 copy"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 a51_weedoors",
+        "image": "a51_weedoors"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 vent01_64",
+        "image": "vent01_64"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 Alumox64",
+        "image": "Alumox64"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 airvent_gz",
+        "image": "airvent_gz"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 a51_panel2",
+        "image": "a51_panel2"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 plaintarmac1",
+        "image": "plaintarmac1"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 concretegroundl1_256",
+        "image": "concretegroundl1_256"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 a51_intdoor",
+        "image": "a51_intdoor"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 des_tunnellight",
+        "image": "des_tunnellight"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 a51_glass",
+        "image": "a51_glass"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 sm_conc_hatch",
+        "image": "sm_conc_hatch"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 concretemanky",
+        "image": "concretemanky"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 a51_strips1",
+        "image": "a51_strips1"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 pavegrey128",
+        "image": "pavegrey128"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 banding3_64HV",
+        "image": "banding3_64HV"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 ventb64",
+        "image": "ventb64"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 ventb128",
+        "image": "ventb128"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 bluemetal",
+        "image": "bluemetal"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 a51_pipeend",
+        "image": "a51_pipeend"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 banding3c_64HV",
+        "image": "banding3c_64HV"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 ws_carparkwall2",
+        "image": "ws_carparkwall2"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 sl_metalwalk",
+        "image": "sl_metalwalk"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 a51_blastdoor",
+        "image": "a51_blastdoor"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 a51_vent1",
+        "image": "a51_vent1"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 des_factower",
+        "image": "des_factower"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 metpat64",
+        "image": "metpat64"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 redmetal",
+        "image": "redmetal"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 banding9_64HV",
+        "image": "banding9_64HV"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 a51_boffstuff1",
+        "image": "a51_boffstuff1"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 a51_monitors",
+        "image": "a51_monitors"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 ws_castironwalk",
+        "image": "ws_castironwalk"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 carparkwall12_256",
+        "image": "carparkwall12_256"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 a51_floorpanel1",
+        "image": "a51_floorpanel1"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 a51_panels1",
+        "image": "a51_panels1"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 ws_stationfloor",
+        "image": "ws_stationfloor"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 a51_cardreader",
+        "image": "a51_cardreader"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 sw_olddrum1",
+        "image": "sw_olddrum1"
+    },
+    {
+        "texture_name": "a51",
+        "object_texture": "16640 a51 concretewall22_256",
+        "image": "concretewall22_256"
+    },
+    {
+        "texture_name": "711c",
+        "object_texture": "14668 711c CJ_7_11_TILE",
+        "image": "CJ_7_11_TILE"
+    },
+    {
+        "texture_name": "711c",
+        "object_texture": "14668 711c cj_white_wall2",
+        "image": "cj_white_wall2"
+    },
+    {
+        "texture_name": "711c",
+        "object_texture": "14668 711c bwtilebroth",
+        "image": "bwtilebroth"
+    },
+    {
+        "texture_name": "711c",
+        "object_texture": "14668 711c gun_ceiling1128",
+        "image": "gun_ceiling1128"
+    },
+    {
+        "texture_name": "711c",
+        "object_texture": "14668 711c forumstand1_LAe",
+        "image": "forumstand1_LAe"
+    },
+    {
+        "texture_name": "711c",
+        "object_texture": "14668 711c sec_camera1",
+        "image": "sec_camera1"
+    },
+    {
+        "texture_name": "711c",
+        "object_texture": "14668 711c gun_ceiling3",
+        "image": "gun_ceiling3"
+    },
+    {
+        "texture_name": "711c",
+        "object_texture": "14668 711c CJ_CHIP_M2",
+        "image": "CJ_CHIP_M2"
+    },
+    {
+        "texture_name": "711c",
+        "object_texture": "14668 711c CJ_7_11_win",
+        "image": "CJ_7_11_win"
+    },
+    {
+        "texture_name": "711_sfw",
+        "object_texture": "9514 711_sfw dt_carpark_line_texture",
+        "image": "dt_carpark_line_texture"
+    },
+    {
+        "texture_name": "711_sfw",
+        "object_texture": "9514 711_sfw supasave_wintemp",
+        "image": "supasave_wintemp"
+    },
+    {
+        "texture_name": "711_sfw",
+        "object_texture": "9514 711_sfw sw_sheddoor2",
+        "image": "sw_sheddoor2"
+    },
+    {
+        "texture_name": "711_sfw",
+        "object_texture": "9514 711_sfw staddoors1",
+        "image": "staddoors1"
+    },
+    {
+        "texture_name": "711_sfw",
+        "object_texture": "9514 711_sfw brick",
+        "image": "brick"
+    },
+    {
+        "texture_name": "711_sfw",
+        "object_texture": "9514 711_sfw pcut_bot_law",
+        "image": "pcut_bot_law"
+    },
+    {
+        "texture_name": "711_sfw",
+        "object_texture": "9514 711_sfw ws_rooftarmac1",
+        "image": "ws_rooftarmac1"
+    },
+    {
+        "texture_name": "711_sfw",
+        "object_texture": "9514 711_sfw ws_carpark2",
+        "image": "ws_carpark2"
+    },
+    {
+        "texture_name": "711_sfw",
+        "object_texture": "9514 711_sfw shingles2",
+        "image": "shingles2"
+    },
+    {
+        "texture_name": "711_sfw",
+        "object_texture": "9514 711_sfw supasave_sfw",
+        "image": "supasave_sfw"
+    },
+    {
+        "texture_name": "711_sfw",
+        "object_texture": "9514 711_sfw mono1_sfe",
+        "image": "mono1_sfe"
+    },
+    {
+        "texture_name": "711_sfw",
+        "object_texture": "9514 711_sfw mono2_sfe",
+        "image": "mono2_sfe"
+    },
+    {
+        "texture_name": "711_sfw",
+        "object_texture": "9514 711_sfw rebrckwall_128",
+        "image": "rebrckwall_128"
+    },
+    {
+        "texture_name": "711_sfw",
+        "object_texture": "9514 711_sfw beachwall_law",
+        "image": "beachwall_law"
+    },
+    {
+        "texture_name": "7_11_door",
+        "object_texture": "1560 7_11_door CJ_7_11_win",
+        "image": "CJ_7_11_win"
+    },
+    {
+        "texture_name": "7_11_door",
+        "object_texture": "1560 7_11_door cj_sheetmetal2",
+        "image": "cj_sheetmetal2"
+    },
+    {
+        "texture_name": "7_11_door",
+        "object_texture": "1560 7_11_door CJ_CHROME2",
+        "image": "CJ_CHROME2"
+    },
+    {
+        "texture_name": "7_11_posters",
+        "object_texture": "14690 7_11_posters CJ_7_11_POST2",
+        "image": "CJ_7_11_POST2"
+    },
+    {
+        "texture_name": "7_11_posters",
+        "object_texture": "14690 7_11_posters CJ_7_11_POST",
+        "image": "CJ_7_11_POST"
+    },
+    {
+        "texture_name": "7_11_posters",
+        "object_texture": "14690 7_11_posters munkyJuice_2",
+        "image": "munkyJuice_2"
+    },
+    {
+        "texture_name": "7_11_posters",
+        "object_texture": "14690 7_11_posters cokopops_1",
+        "image": "cokopops_1"
+    },
+    {
+        "texture_name": "a51_alpha",
+        "object_texture": "16646 a51_alpha a51_sign1",
+        "image": "a51_sign1"
+    },
+    {
+        "texture_name": "a51_alpha",
+        "object_texture": "16646 a51_alpha des_rails1",
+        "image": "des_rails1"
+    },
+    {
+        "texture_name": "a51_alpha",
+        "object_texture": "16646 a51_alpha waterdirty256",
+        "image": "waterdirty256"
+    },
+    {
+        "texture_name": "a51_alpha",
+        "object_texture": "16646 a51_alpha stanwind_nt",
+        "image": "stanwind_nt"
+    },
+    {
+        "texture_name": "a51_alpha",
+        "object_texture": "16646 a51_alpha ws_stationgirder1",
+        "image": "ws_stationgirder1"
+    },
+    {
+        "texture_name": "8bars",
+        "object_texture": "13659 8bars barrier",
+        "image": "barrier"
+    },
+    {
+        "texture_name": "8bars",
+        "object_texture": "13659 8bars Upt_Fence_Mesh",
+        "image": "Upt_Fence_Mesh"
+    },
+    {
+        "texture_name": "8bars",
+        "object_texture": "13659 8bars AH_gbarrier",
+        "image": "AH_gbarrier"
+    },
+    {
+        "texture_name": "8bars",
+        "object_texture": "13659 8bars bridgeconc",
+        "image": "bridgeconc"
+    },
+    {
+        "texture_name": "8stad",
+        "object_texture": "13628 8stad stadroof",
+        "image": "stadroof"
+    },
+    {
+        "texture_name": "a51_labs",
+        "object_texture": "16639 a51_labs studiowall4_law",
+        "image": "studiowall4_law"
+    },
+    {
+        "texture_name": "a51_labs",
+        "object_texture": "16639 a51_labs ws_trainstationwin1",
+        "image": "ws_trainstationwin1"
+    },
+    {
+        "texture_name": "a51_labs",
+        "object_texture": "16639 a51_labs dam_terazzo",
+        "image": "dam_terazzo"
+    },
+    {
+        "texture_name": "a51_labs",
+        "object_texture": "16639 a51_labs a51_labwall1",
+        "image": "a51_labwall1"
+    }
+]
