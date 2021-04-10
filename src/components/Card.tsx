@@ -53,7 +53,7 @@ export const Card = ({ texture_name, object_texture, image }: TextureType) => {
                 wordBreak="break-all"
             >
                 <Image
-                    src={image ? `/${texture_name}/${image}.png` : '/questions.svg'}
+                    src={image ? `/images/${texture_name}/${image}.png` : '/questions.svg'}
                     width="100%"
                     height="100%"
                     alt={`${image}`}
