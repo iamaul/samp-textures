@@ -54,8 +54,8 @@ export const Card = ({ texture_name, object_texture, image }: TextureType) => {
             >
                 <Image
                     src={image ? `/images/${texture_name}/${image}.png` : '/questions.svg'}
-                    width="100%"
-                    height="100%"
+                    width="50%"
+                    height="50%"
                     alt={`${image}`}
                 />
             </Flex>
