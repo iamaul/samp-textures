@@ -2180,27 +2180,27 @@
         "image": "arch_plans"
     },
     {
-        "texture_name": "alleystuf",
+        "texture_name": "alleystuff",
         "object_texture": "12821 alleystuff planks01",
         "image": "planks01"
     },
     {
-        "texture_name": "alleystuf",
+        "texture_name": "alleystuff",
         "object_texture": "12821 alleystuff cratec",
         "image": "cratec"
     },
     {
-        "texture_name": "alleystuf",
+        "texture_name": "alleystuff",
         "object_texture": "12821 alleystuff Crate_B",
         "image": "Crate_B"
     },
     {
-        "texture_name": "alleystuf",
+        "texture_name": "alleystuff",
         "object_texture": "12821 alleystuff sjmtair",
         "image": "sjmtair"
     },
     {
-        "texture_name": "alleystuf",
+        "texture_name": "alleystuff",
         "object_texture": "12821 alleystuff Gen_Crate",
         "image": "Gen_Crate"
     },
