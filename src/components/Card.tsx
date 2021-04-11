@@ -74,13 +74,17 @@ export const Card = ({ texture_name, object_texture, image }: TextureType) => {
                         width="9rem"
                         height="12.5rem"
                         borderRadius="sm"
+                        _groupHover={{ opacity: 0.5 }}
+                        style={{
+                            filter: `drop-shadow(0 0 0.10rem ${
+                                colorMode === "light" ? "gray" : "black"
+                            })`
+                        }}
                         alt={`${image}`}
                     />
                 </Flex>
                 <Box px="10px" py="15px" wordBreak="break-word" borderRadius="full">
-                    <Box mt={4}>
-                        <Text fontWeight="bold">{texture_name}</Text>
-                    </Box>
+                    <Text fontWeight="bold">{texture_name}</Text>
                 </Box>
                 <Text
                     textTransform="uppercase"
