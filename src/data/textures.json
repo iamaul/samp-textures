@@ -1331,8 +1331,8 @@
     },
     {
         "texture_name": "ab_sfgymmain",
-        "object_texture": "14789 ab_sfgymmain ab_panelWall02",
-        "image": "ab_panelWall02"
+        "object_texture": "14789 ab_sfgymmain ab_panelWall2",
+        "image": "ab_panelWall2"
     },
     {
         "texture_name": "ab_sfgymmain",
