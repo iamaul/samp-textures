@@ -543,5 +543,565 @@
         "texture_name": "a51_labs",
         "object_texture": "16639 a51_labs a51_labwall1",
         "image": "a51_labwall1"
+    },
+    {
+        "texture_name": "a51_ext",
+        "object_texture": "16093 a51_ext a51_fencsign",
+        "image": "a51_fencsign"
+    },
+    {
+        "texture_name": "a51_ext",
+        "object_texture": "16093 a51_ext BLOCK2",
+        "image": "BLOCK2"
+    },
+    {
+        "texture_name": "a51_ext",
+        "object_texture": "16093 a51_ext ws_whitewall2_top",
+        "image": "ws_whitewall2_top"
+    },
+    {
+        "texture_name": "a51_ext",
+        "object_texture": "16093 a51_ext ws_whitewall2_bottom",
+        "image": "ws_whitewall2_bottom"
+    },
+    {
+        "texture_name": "a51_ext",
+        "object_texture": "16093 a51_ext corugwall_sandy",
+        "image": "corugwall_sandy"
+    },
+    {
+        "texture_name": "a51_ext",
+        "object_texture": "16093 a51_ext Tar_1line256HV",
+        "image": "Tar_1line256HV"
+    },
+    {
+        "texture_name": "a51_ext",
+        "object_texture": "16093 a51_ext des_backdoor1",
+        "image": "des_backdoor1"
+    },
+    {
+        "texture_name": "a51_ext",
+        "object_texture": "16093 a51_ext ws_controltowerwin1",
+        "image": "ws_controltowerwin1"
+    },
+    {
+        "texture_name": "a51_ext",
+        "object_texture": "16093 a51_ext BLOCK",
+        "image": "BLOCK"
+    },
+    {
+        "texture_name": "a51_ext",
+        "object_texture": "16093 a51_ext des_dirttrack1",
+        "image": "des_dirttrack1"
+    },
+    {
+        "texture_name": "a51_ext",
+        "object_texture": "16093 a51_ext stormdrain2_nt",
+        "image": "stormdrain2_nt"
+    },
+    {
+        "texture_name": "a51_ext",
+        "object_texture": "16093 a51_ext ws_corr_2_plain",
+        "image": "ws_corr_2_plain"
+    },
+    {
+        "texture_name": "a51_ext",
+        "object_texture": "16093 a51_ext wilswin01_la",
+        "image": "wilswin01_la"
+    },
+    {
+        "texture_name": "a51_ext",
+        "object_texture": "16093 a51_ext alleydoor2",
+        "image": "alleydoor2"
+    },
+    {
+        "texture_name": "a51_ext",
+        "object_texture": "16093 a51_ext alleydoor9b",
+        "image": "alleydoor9b"
+    },
+    {
+        "texture_name": "a51_ext",
+        "object_texture": "16093 a51_ext ws_trans_concr",
+        "image": "ws_trans_concr"
+    },
+    {
+        "texture_name": "a51_ext",
+        "object_texture": "16093 a51_ext des_elepylon",
+        "image": "des_elepylon"
+    },
+    {
+        "texture_name": "a51_ext",
+        "object_texture": "16093 a51_ext block2_high",
+        "image": "block2_high"
+    },
+    {
+        "texture_name": "a51_ext",
+        "object_texture": "16093 a51_ext cabin5",
+        "image": "cabin5"
+    },
+    {
+        "texture_name": "a51_ext",
+        "object_texture": "16093 a51_ext des_dirt1",
+        "image": "des_dirt1"
+    },
+    {
+        "texture_name": "a51_ext",
+        "object_texture": "16093 a51_ext des_dirttrack1r",
+        "image": "des_dirttrack1r"
+    },
+    {
+        "texture_name": "a51_detailstuff",
+        "object_texture": "16644 a51_detailstuff a51_radardisp",
+        "image": "a51_radardisp"
+    },
+    {
+        "texture_name": "a51_detailstuff",
+        "object_texture": "16644 a51_detailstuff a51_radarscan_m",
+        "image": "a51_radarscan_m"
+    },
+    {
+        "texture_name": "a51_detailstuff",
+        "object_texture": "16644 a51_detailstuff Gen_Monitor",
+        "image": "Gen_Monitor"
+    },
+    {
+        "texture_name": "a51_detailstuff",
+        "object_texture": "16644 a51_detailstuff Gen_Keyboard",
+        "image": "Gen_Keyboard"
+    },
+    {
+        "texture_name": "a51_detailstuff",
+        "object_texture": "16644 a51_detailstuff a51_map",
+        "image": "a51_map"
+    },
+    {
+        "texture_name": "a51_detailstuff",
+        "object_texture": "16644 a51_detailstuff a51_secdesk",
+        "image": "a51_secdesk"
+    },
+    {
+        "texture_name": "a51_detailstuff",
+        "object_texture": "16644 a51_detailstuff aluminiumbands256",
+        "image": "aluminiumbands256"
+    },
+    {
+        "texture_name": "a51_detailstuff",
+        "object_texture": "16644 a51_detailstuff roucghstonebrtb",
+        "image": "roucghstonebrtb"
+    },
+    {
+        "texture_name": "a51_detailstuff",
+        "object_texture": "16644 a51_detailstuff steel256128",
+        "image": "steel256128"
+    },
+    {
+        "texture_name": "a51_labdoor",
+        "object_texture": "2951 a51_labdoor washapartwall1_256",
+        "image": "washapartwall1_256"
+    },
+    {
+        "texture_name": "a51_spotlight",
+        "object_texture": "2887 a51_spotlight stormdrain5_nt",
+        "image": "stormdrain5_nt"
+    },
+    {
+        "texture_name": "a51_spotlight",
+        "object_texture": "2887 a51_spotlight dts_spotlight",
+        "image": "dts_spotlight"
+    },
+    {
+        "texture_name": "a51jdrx",
+        "object_texture": "2887 a51jdrx sam_camo",
+        "image": "sam_camo"
+    },
+    {
+        "texture_name": "ab",
+        "object_texture": "2567 ab ab_plasicwrapa",
+        "image": "ab_plasicwrapa"
+    },
+    {
+        "texture_name": "ab",
+        "object_texture": "2567 ab ab_metalholes",
+        "image": "ab_metalholes"
+    },
+    {
+        "texture_name": "ab",
+        "object_texture": "2567 ab ab_metaledge",
+        "image": "ab_metaledge"
+    },
+    {
+        "texture_name": "ab",
+        "object_texture": "2567 ab chipboard_256",
+        "image": "chipboard_256"
+    },
+    {
+        "texture_name": "ab",
+        "object_texture": "2567 ab Box_Texturepage",
+        "image": "Box_Texturepage"
+    },
+    {
+        "texture_name": "a51_undergrnd",
+        "object_texture": "16293 a51_undergrnd Was_scrpyd_door_in_hngr",
+        "image": "Was_scrpyd_door_in_hngr"
+    },
+    {
+        "texture_name": "a51_crane",
+        "object_texture": "2917 a51_crane dish_base1",
+        "image": "dish_base1"
+    },
+    {
+        "texture_name": "a51_crane",
+        "object_texture": "2917 a51_crane dish_base2",
+        "image": "dish_base2"
+    },
+    {
+        "texture_name": "a51_crane",
+        "object_texture": "2917 a51_crane quarry_conv_belt_struct",
+        "image": "quarry_conv_belt_struct"
+    },
+    {
+        "texture_name": "a51_crane",
+        "object_texture": "2917 a51_crane banding5_64HV",
+        "image": "banding5_64HV"
+    },
+    {
+        "texture_name": "a51_crane",
+        "object_texture": "2917 a51_crane girder2_grey_64HV",
+        "image": "girder2_grey_64HV"
+    },
+    {
+        "texture_name": "a51_stores",
+        "object_texture": "16322 a51_stores metpat64chev_128",
+        "image": "metpat64chev_128"
+    },
+    {
+        "texture_name": "a51_stores",
+        "object_texture": "16322 a51_stores dish_panel_a",
+        "image": "dish_panel_a"
+    },
+    {
+        "texture_name": "a51_stores",
+        "object_texture": "16322 a51_stores dish_roundbit_a",
+        "image": "dish_roundbit_a"
+    },
+    {
+        "texture_name": "a51_stores",
+        "object_texture": "16322 a51_stores steel64",
+        "image": "steel64"
+    },
+    {
+        "texture_name": "a51_stores",
+        "object_texture": "16322 a51_stores wtmetal3",
+        "image": "wtmetal3"
+    },
+    {
+        "texture_name": "a51_stores",
+        "object_texture": "16322 a51_stores metalic128",
+        "image": "metalic128"
+    },
+    {
+        "texture_name": "a51_stores",
+        "object_texture": "16322 a51_stores des_ghotwood1",
+        "image": "des_ghotwood1"
+    },
+    {
+        "texture_name": "a51_stores",
+        "object_texture": "16322 a51_stores Gen_Freight",
+        "image": "Gen_Freight"
+    },
+    {
+        "texture_name": "a51_stores",
+        "object_texture": "16322 a51_stores dam_gencrane",
+        "image": "dam_gencrane"
+    },
+    {
+        "texture_name": "a51_stores",
+        "object_texture": "16322 a51_stores fence_64",
+        "image": "fence_64"
+    },
+    {
+        "texture_name": "a51_stores",
+        "object_texture": "16322 a51_stores hangingwires1",
+        "image": "hangingwires1"
+    },
+    {
+        "texture_name": "ab_ab",
+        "object_texture": "2589 ab_ab ab_sheetSteel",
+        "image": "ab_sheetSteel"
+    },
+    {
+        "texture_name": "ab_ab",
+        "object_texture": "2589 ab_ab ab_carcass",
+        "image": "ab_carcass"
+    },
+    {
+        "texture_name": "ab_caligulasfront",
+        "object_texture": "14628 ab_caligulasfront sign_Caligulas2",
+        "image": "sign_Caligulas2"
+    },
+    {
+        "texture_name": "ab_abattoir_box",
+        "object_texture": "14612 ab_abattoir_box pipes_csite_256",
+        "image": "pipes_csite_256"
+    },
+    {
+        "texture_name": "ab_abattoir_box",
+        "object_texture": "14612 ab_abattoir_box ab_airconunit",
+        "image": "ab_airconunit"
+    },
+    {
+        "texture_name": "ab_abattoir_box",
+        "object_texture": "14612 ab_abattoir_box ab_bloodfloor",
+        "image": "ab_bloodfloor"
+    },
+    {
+        "texture_name": "ab_abattoir_box",
+        "object_texture": "14612 ab_abattoir_box ab_walldamage",
+        "image": "ab_walldamage"
+    },
+    {
+        "texture_name": "ab_abattoir_box",
+        "object_texture": "14612 ab_abattoir_box ab_boxStack2",
+        "image": "ab_boxStack2"
+    },
+    {
+        "texture_name": "ab_acc_control",
+        "object_texture": "11150 ab_acc_control ws_shipmetal5",
+        "image": "ws_shipmetal5"
+    },
+    {
+        "texture_name": "ab_acc_control",
+        "object_texture": "11150 ab_acc_control ab_dialsSwitches",
+        "image": "ab_dialsSwitches"
+    },
+    {
+        "texture_name": "ab_acc_control",
+        "object_texture": "11150 ab_acc_control ab_BoltPanel2",
+        "image": "ab_BoltPanel2"
+    },
+    {
+        "texture_name": "ab_cargo_int",
+        "object_texture": "14548 ab_cargo_int ab_planeWing",
+        "image": "ab_planeWing"
+    },
+    {
+        "texture_name": "ab_cargo_int",
+        "object_texture": "14548 ab_cargo_int ab_planeBoby",
+        "image": "ab_planeBoby"
+    },
+    {
+        "texture_name": "ab_cargo_int",
+        "object_texture": "14548 ab_cargo_int 747_freight1",
+        "image": "747_freight1"
+    },
+    {
+        "texture_name": "ab_cargo_int",
+        "object_texture": "14548 ab_cargo_int cargo_gir3",
+        "image": "cargo_gir3"
+    },
+    {
+        "texture_name": "ab_cargo_int",
+        "object_texture": "14548 ab_cargo_int 747_cage",
+        "image": "747_cage"
+    },
+    {
+        "texture_name": "ab_cargo_int",
+        "object_texture": "14548 ab_cargo_int metal_frame",
+        "image": "metal_frame"
+    },
+    {
+        "texture_name": "ab_cargo_int",
+        "object_texture": "14548 ab_cargo_int cargo_wall2",
+        "image": "cargo_wall2"
+    },
+    {
+        "texture_name": "ab_cargo_int",
+        "object_texture": "14548 ab_cargo_int cargo_floor2",
+        "image": "cargo_floor2"
+    },
+    {
+        "texture_name": "ab_cargo_int",
+        "object_texture": "14548 ab_cargo_int cargo_floor1",
+        "image": "cargo_floor1"
+    },
+    {
+        "texture_name": "ab_cargo_int",
+        "object_texture": "14548 ab_cargo_int cargo_gir2",
+        "image": "cargo_gir2"
+    },
+    {
+        "texture_name": "ab_cargo_int",
+        "object_texture": "14548 ab_cargo_int cargo_gir1",
+        "image": "cargo_gir1"
+    },
+    {
+        "texture_name": "ab_cargo_int",
+        "object_texture": "14548 ab_cargo_int Alumplat64",
+        "image": "Alumplat64"
+    },
+    {
+        "texture_name": "ab_cargo_int",
+        "object_texture": "14548 ab_cargo_int yellowmetal",
+        "image": "yellowmetal"
+    },
+    {
+        "texture_name": "ab_cargo_int",
+        "object_texture": "14548 ab_cargo_int cargo_pipes",
+        "image": "cargo_pipes"
+    },
+    {
+        "texture_name": "ab_cargo_int",
+        "object_texture": "14548 ab_cargo_int cargo_ceil2",
+        "image": "cargo_ceil2"
+    },
+    {
+        "texture_name": "ab_cargo_int",
+        "object_texture": "14548 ab_cargo_int cargo_top1",
+        "image": "cargo_top1"
+    },
+    {
+        "texture_name": "ab_abbatoir01",
+        "object_texture": "14584 ab_abbatoir01 ab_tileWall",
+        "image": "ab_tileWall"
+    },
+    {
+        "texture_name": "ab_abbatoir01",
+        "object_texture": "14584 ab_abbatoir01 ab_tiles",
+        "image": "ab_tiles"
+    },
+    {
+        "texture_name": "ab_abbatoir01",
+        "object_texture": "14584 ab_abbatoir01 ab_wall1b",
+        "image": "ab_wall1b"
+    },
+    {
+        "texture_name": "ab_abbatoir01",
+        "object_texture": "14584 ab_abbatoir01 carpet5kb",
+        "image": "carpet5kb"
+    },
+    {
+        "texture_name": "ab_abbatoir01",
+        "object_texture": "14584 ab_abbatoir01 ab_concFloor",
+        "image": "ab_concFloor"
+    },
+    {
+        "texture_name": "ab_abbatoir01",
+        "object_texture": "14584 ab_abbatoir01 ab_ceiling1",
+        "image": "ab_ceiling1"
+    },
+    {
+        "texture_name": "ab_abbatoir01",
+        "object_texture": "14584 ab_abbatoir01 cj_sheetmetal",
+        "image": "cj_sheetmetal"
+    },
+    {
+        "texture_name": "ab_abbatoir01",
+        "object_texture": "14584 ab_abbatoir01 ab_drainage",
+        "image": "ab_drainage"
+    },
+    {
+        "texture_name": "ab_abbatoir01",
+        "object_texture": "14584 ab_abbatoir01 striplight1",
+        "image": "striplight1"
+    },
+    {
+        "texture_name": "ab_abbatoir01",
+        "object_texture": "14584 ab_abbatoir01 ab_vent1",
+        "image": "ab_vent1"
+    },
+    {
+        "texture_name": "ab_jetlite",
+        "object_texture": "1564 ab_jetlite CJ_BULLETBRASS",
+        "image": "CJ_BULLETBRASS"
+    },
+    {
+        "texture_name": "ab_jetlite",
+        "object_texture": "1564 ab_jetlite bathwin01_int",
+        "image": "bathwin01_int"
+    },
+    {
+        "texture_name": "ab_mafcaslaund",
+        "object_texture": "14583 ab_mafcaslaund hospital_trolley",
+        "image": "hospital_trolley"
+    },
+    {
+        "texture_name": "ab_mafcaslaund",
+        "object_texture": "14583 ab_mafcaslaund crate_side",
+        "image": "crate_side"
+    },
+    {
+        "texture_name": "ab_optilite",
+        "object_texture": "14627 ab_optilite ab_optilite",
+        "image": "ab_optilite"
+    },
+    {
+        "texture_name": "ab_dojowall",
+        "object_texture": "2755 ab_dojowall ab_trellis",
+        "image": "ab_trellis"
+    },
+    {
+        "texture_name": "ab_dojowall",
+        "object_texture": "2755 ab_dojowall mp_apt1_roomfloor",
+        "image": "mp_apt1_roomfloor"
+    },
+    {
+        "texture_name": "ab_jetseat",
+        "object_texture": "1502 ab_jetseat mp_jet_seat",
+        "image": "mp_jet_seat"
+    },
+    {
+        "texture_name": "ab_pillartemp",
+        "object_texture": "14616 ab_pillartemp ab_PillarTop",
+        "image": "ab_PillarTop"
+    },
+    {
+        "texture_name": "ab_pillartemp",
+        "object_texture": "14616 ab_pillartemp ab_Pillar",
+        "image": "ab_Pillar"
+    },
+    {
+        "texture_name": "ab_sfammuitems02",
+        "object_texture": "18063 ab_sfammuitems02 gun_sign_txta",
+        "image": "gun_sign_txta"
+    },
+    {
+        "texture_name": "ab_sfammuitems02",
+        "object_texture": "18063 ab_sfammuitems02 gun_xtra2",
+        "image": "gun_xtra2"
+    },
+    {
+        "texture_name": "ab_sfammuitems02",
+        "object_texture": "18063 ab_sfammuitems02 gun_xtra1",
+        "image": "gun_xtra1"
+    },
+    {
+        "texture_name": "ab_sfammuitems02",
+        "object_texture": "18063 ab_sfammuitems02 1_to_8",
+        "image": "1_to_8"
+    },
+    {
+        "texture_name": "ab_sfgymbeams",
+        "object_texture": "14786 ab_sfgymbeams knot_wood128",
+        "image": "knot_wood128"
+    },
+    {
+        "texture_name": "ab_sfgymbeams",
+        "object_texture": "14786 ab_sfgymbeams gym_floor5",
+        "image": "gym_floor5"
+    },
+    {
+        "texture_name": "ab_sfgymbits01",
+        "object_texture": "14788 ab_sfgymbits01 ab_rollmat01",
+        "image": "ab_rollmat01"
+    },
+    {
+        "texture_name": "ab_sfgymbits01",
+        "object_texture": "14788 ab_sfgymbits01 lockers",
+        "image": "lockers"
+    },
+    {
+        "texture_name": "abatoir_daylite",
+        "object_texture": "14615 abatoir_daylite ab_volumelight",
+        "image": "ab_volumelight"
     }
 ]
