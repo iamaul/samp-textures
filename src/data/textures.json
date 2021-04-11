@@ -2196,8 +2196,8 @@
     },
     {
         "texture_name": "alleystuff",
-        "object_texture": "12821 alleystuff sjmtair",
-        "image": "sjmtair"
+        "object_texture": "12821 alleystuff sjmstair",
+        "image": "sjmstair"
     },
     {
         "texture_name": "alleystuff",
