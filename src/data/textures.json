@@ -1103,5 +1103,66 @@
         "texture_name": "abatoir_daylite",
         "object_texture": "14615 abatoir_daylite ab_volumelight",
         "image": "ab_volumelight"
+    },
+    {
+        "texture_name": "ab_wooziea",
+        "object_texture": "14534 ab_wooziea ab_wuziwillow",
+        "image": "ab_wuziwillow"
+    },
+    {
+        "texture_name": "ab_wooziea",
+        "object_texture": "14534 ab_wooziea ab_fabricRed",
+        "image": "ab_fabricRed"
+    },
+    {
+        "texture_name": "ab_wooziea",
+        "object_texture": "14534 ab_wooziea walp72S",
+        "image": "walp72S"
+    },
+    {
+        "texture_name": "ab_wooziea",
+        "object_texture": "14534 ab_wooziea ab_tileDiamond",
+        "image": "ab_tileDiamond"
+    },
+    {
+        "texture_name": "ab_wooziea",
+        "object_texture": "14534 ab_wooziea ab_redwall",
+        "image": "ab_redwall"
+    },
+    {
+        "texture_name": "ab_wooziea",
+        "object_texture": "14534 ab_wooziea ab_wuzibet",
+        "image": "ab_wuzibet"
+    },
+    {
+        "texture_name": "ab_wooziea",
+        "object_texture": "14534 ab_wooziea light_full",
+        "image": "light_full"
+    },
+    {
+        "texture_name": "ab_wooziea",
+        "object_texture": "14534 ab_wooziea dt_office_roof",
+        "image": "dt_office_roof"
+    },
+    {
+        "texture_name": "ab_wooziea",
+        "object_texture": "14534 ab_wooziea ab_wuziMirror",
+        "image": "ab_wuziMirror"
+    },
+    {
+        "texture_name": "ab_wooziea",
+        "object_texture": "14534 ab_wooziea mcstraps_window",
+        "image": "mcstraps_window"
+    },
+    {
+        "texture_name": "ab_wooziea",
+        "object_texture": "14534 ab_wooziea carp02S",
+        "image": "carp02S"
+    },
+    {
+        "texture_name": "ab_wooziea",
+        "object_texture": "14534 ab_wooziea CJ_WOODDOOR5",
+        "image": "CJ_WOODDOOR5"
     }
+
 ]
