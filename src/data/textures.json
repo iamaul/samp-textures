@@ -1443,5 +1443,814 @@
         "texture_name": "airroadsigns_sfse",
         "object_texture": "10837 airroadsigns_sfse ws_airbigsign1",
         "image": "ws_airbigsign1"
+    },
+    {
+        "texture_name": "ab_mafiasuitea",
+        "object_texture": "14581 ab_mafiasuitea carp01S",
+        "image": "carp01S"
+    },
+    {
+        "texture_name": "ab_mafiasuitea",
+        "object_texture": "14581 ab_mafiasuitea wood02S",
+        "image": "wood02S"
+    },
+    {
+        "texture_name": "ab_mafiasuitea",
+        "object_texture": "14581 ab_mafiasuitea kit_door1",
+        "image": "kit_door1"
+    },
+    {
+        "texture_name": "ab_mafiasuitea",
+        "object_texture": "14581 ab_mafiasuitea ceilingLite",
+        "image": "ceilingLite"
+    },
+    {
+        "texture_name": "ab_mafiasuitea",
+        "object_texture": "14581 ab_mafiasuitea mp_burn_ceiling",
+        "image": "mp_burn_ceiling"
+    },
+    {
+        "texture_name": "ab_mafiasuitea",
+        "object_texture": "14581 ab_mafiasuitea ab_books",
+        "image": "ab_books"
+    },
+    {
+        "texture_name": "ab_mafiasuitea",
+        "object_texture": "14581 ab_mafiasuitea walp45S",
+        "image": "walp45S"
+    },
+    {
+        "texture_name": "ab_mafiasuitea",
+        "object_texture": "14581 ab_mafiasuitea wallpapkb2",
+        "image": "wallpapkb2"
+    },
+    {
+        "texture_name": "ab_mafiasuitea",
+        "object_texture": "14581 ab_mafiasuitea ab_walnutLite",
+        "image": "ab_walnutLite"
+    },
+    {
+        "texture_name": "ab_mafiasuitea",
+        "object_texture": "14581 ab_mafiasuitea ab_walnut",
+        "image": "ab_walnut"
+    },
+    {
+        "texture_name": "ab_mafiasuitea",
+        "object_texture": "14581 ab_mafiasuitea barbersmir1",
+        "image": "barbersmir1"
+    },
+    {
+        "texture_name": "ab_mafiasuitea",
+        "object_texture": "14581 ab_mafiasuitea goldPillar",
+        "image": "goldPillar"
+    },
+    {
+        "texture_name": "ab_mafiasuitea",
+        "object_texture": "14581 ab_mafiasuitea cof_wood2",
+        "image": "cof_wood2"
+    },
+    {
+        "texture_name": "ab_mafiasuitea",
+        "object_texture": "14581 ab_mafiasuitea ab_CeilRose",
+        "image": "ab_CeilRose"
+    },
+    {
+        "texture_name": "ab_mafiasuitea",
+        "object_texture": "14581 ab_mafiasuitea ab_pic_bridge",
+        "image": "ab_pic_bridge"
+    },
+    {
+        "texture_name": "ab_mafiasuitea",
+        "object_texture": "14581 ab_mafiasuitea ab_picFrame",
+        "image": "ab_picFrame"
+    },
+    {
+        "texture_name": "ab_mafiasuitea",
+        "object_texture": "14581 ab_mafiasuitea ab_blind",
+        "image": "ab_blind"
+    },
+    {
+        "texture_name": "ab_mafiasuitea",
+        "object_texture": "14581 ab_mafiasuitea goldDecal",
+        "image": "goldDecal"
+    },
+    {
+        "texture_name": "ab_mafiasuitea",
+        "object_texture": "14581 ab_mafiasuitea ab_wood01",
+        "image": "ab_wood01"
+    },
+    {
+        "texture_name": "ab_sfammumain",
+        "object_texture": "18065 ab_sfammumain carp20S",
+        "image": "carp20S"
+    },
+    {
+        "texture_name": "ab_sfammumain",
+        "object_texture": "18065 ab_sfammumain pavea256",
+        "image": "pavea256"
+    },
+    {
+        "texture_name": "ab_sfammumain",
+        "object_texture": "18065 ab_sfammumain mp_gun_wall",
+        "image": "mp_gun_wall"
+    },
+    {
+        "texture_name": "ab_sfammumain",
+        "object_texture": "18065 ab_sfammumain gun_door1",
+        "image": "gun_door1"
+    },
+    {
+        "texture_name": "ab_sfammumain",
+        "object_texture": "18065 ab_sfammumain gun_ceiling1",
+        "image": "gun_ceiling1"
+    },
+    {
+        "texture_name": "ab_sfammumain",
+        "object_texture": "18065 ab_sfammumain breezewall",
+        "image": "breezewall"
+    },
+    {
+        "texture_name": "ab_sfammumain",
+        "object_texture": "18065 ab_sfammumain ab_wallpaper02",
+        "image": "ab_wallpaper02"
+    },
+    {
+        "texture_name": "ab_sfammumain",
+        "object_texture": "18065 ab_sfammumain plate1",
+        "image": "plate1"
+    },
+    {
+        "texture_name": "ab_sfammumain",
+        "object_texture": "18065 ab_sfammumain breezewall5",
+        "image": "breezewall5"
+    },
+    {
+        "texture_name": "ab_sfammumain",
+        "object_texture": "18065 ab_sfammumain shelf_glas",
+        "image": "shelf_glas"
+    },
+    {
+        "texture_name": "ab_sfammumain",
+        "object_texture": "18065 ab_sfammumain ab_stripped_floor",
+        "image": "ab_stripped_floor"
+    },
+    {
+        "texture_name": "ab_sfammumain",
+        "object_texture": "18065 ab_sfammumain gun_floor1",
+        "image": "gun_floor1"
+    },
+    {
+        "texture_name": "ab_sfammumain",
+        "object_texture": "18065 ab_sfammumain plywood_gym",
+        "image": "plywood_gym"
+    },
+    {
+        "texture_name": "ab_sfammumain",
+        "object_texture": "18065 ab_sfammumain gun_floor2",
+        "image": "gun_floor2"
+    },
+    {
+        "texture_name": "ab_sfammuunits",
+        "object_texture": "18064 ab_sfammuunits gun_targetc",
+        "image": "gun_targetc"
+    },
+    {
+        "texture_name": "ab_sfammuunits",
+        "object_texture": "18064 ab_sfammuunits gun_targeta",
+        "image": "gun_targeta"
+    },
+    {
+        "texture_name": "ab_sfammuunits",
+        "object_texture": "18064 ab_sfammuunits gun_blackbox",
+        "image": "gun_blackbox"
+    },
+    {
+        "texture_name": "ab_sfammuunits",
+        "object_texture": "18064 ab_sfammuunits rubber_mat",
+        "image": "rubber_mat"
+    },
+    {
+        "texture_name": "ab_sfammuunits",
+        "object_texture": "18064 ab_sfammuunits gun_divider2",
+        "image": "gun_divider2"
+    },
+    {
+        "texture_name": "ab_sfammuunits",
+        "object_texture": "18064 ab_sfammuunits gun_targetb",
+        "image": "gun_targetb"
+    },
+    {
+        "texture_name": "ab_sfgymbits02",
+        "object_texture": "14787 ab_sfgymbits02 sign_cobra2",
+        "image": "sign_cobra2"
+    },
+    {
+        "texture_name": "ab_sfgymbits02",
+        "object_texture": "14787 ab_sfgymbits02 sign_cobra1",
+        "image": "sign_cobra1"
+    },
+    {
+        "texture_name": "ab_sfgymbits02",
+        "object_texture": "14787 ab_sfgymbits02 ab_rollmat02",
+        "image": "ab_rollmat02"
+    },
+    {
+        "texture_name": "ab_sfgymbits02",
+        "object_texture": "14787 ab_sfgymbits02 ab_gymMark01",
+        "image": "ab_gymMark01"
+    },
+    {
+        "texture_name": "ab_sfgymmain",
+        "object_texture": "14789 ab_sfgymmain gymwinodow3",
+        "image": "gymwinodow3"
+    },
+    {
+        "texture_name": "ab_sfgymmain",
+        "object_texture": "14789 ab_sfgymmain ab_wood02",
+        "image": "ab_wood02"
+    },
+    {
+        "texture_name": "ab_sfgymmain",
+        "object_texture": "14789 ab_sfgymmain ab_panelWall2",
+        "image": "ab_panelWall2"
+    },
+    {
+        "texture_name": "ab_sfgymmain",
+        "object_texture": "14789 ab_sfgymmain ab_panelWall1",
+        "image": "ab_panelWall1"
+    },
+    {
+        "texture_name": "ab_sfgymmain",
+        "object_texture": "14789 ab_sfgymmain CBchallenge_256",
+        "image": "CBchallenge_256"
+    },
+    {
+        "texture_name": "ab_sfgymmain",
+        "object_texture": "14789 ab_sfgymmain gun_ceiling2_128",
+        "image": "gun_ceiling2_128"
+    },
+    {
+        "texture_name": "ab_sfgymmain",
+        "object_texture": "14789 ab_sfgymmain gym_floor6",
+        "image": "gym_floor6"
+    },
+    {
+        "texture_name": "ab_trukstpa",
+        "object_texture": "14652 ab_trukstpa CJ_WOOD1(EDGE)",
+        "image": "CJ_WOOD1(EDGE)"
+    },
+    {
+        "texture_name": "ab_trukstpa",
+        "object_texture": "14652 ab_trukstpa CJ_CORD",
+        "image": "CJ_CORD"
+    },
+    {
+        "texture_name": "ab_trukstpa",
+        "object_texture": "14652 ab_trukstpa CJ_WOOD6",
+        "image": "CJ_WOOD6"
+    },
+    {
+        "texture_name": "ab_trukstpa",
+        "object_texture": "14652 ab_trukstpa barberswindo",
+        "image": "barberswindo"
+    },
+    {
+        "texture_name": "ab_trukstpa",
+        "object_texture": "14652 ab_trukstpa bbar_wall4",
+        "image": "bbar_wall4"
+    },
+    {
+        "texture_name": "ab_trukstpa",
+        "object_texture": "14652 ab_trukstpa mp_diner_wood",
+        "image": "mp_diner_wood"
+    },
+    {
+        "texture_name": "ab_trukstpa",
+        "object_texture": "14652 ab_trukstpa bbar_wall1",
+        "image": "bbar_wall1"
+    },
+    {
+        "texture_name": "ab_trukstpa",
+        "object_texture": "14652 ab_trukstpa diner_tbl3",
+        "image": "diner_tbl3"
+    },
+    {
+        "texture_name": "ab_trukstpa",
+        "object_texture": "14652 ab_trukstpa bbar_door1",
+        "image": "bbar_door1"
+    },
+    {
+        "texture_name": "ab_trukstpa",
+        "object_texture": "14652 ab_trukstpa wood01",
+        "image": "wood01"
+    },
+    {
+        "texture_name": "ab_trukstpd",
+        "object_texture": "14651 ab_trukstpd Bow_bar_tabletop_wood",
+        "image": "Bow_bar_tabletop_wood"
+    },
+    {
+        "texture_name": "ab_trukstpd",
+        "object_texture": "14651 ab_trukstpd Bow_bar_pool_tablebase",
+        "image": "Bow_bar_pool_tablebase"
+    },
+    {
+        "texture_name": "ab_trukstpd",
+        "object_texture": "14651 ab_trukstpd Bow_bar_pool_table",
+        "image": "Bow_bar_pool_table"
+    },
+    {
+        "texture_name": "ab_trukstpd",
+        "object_texture": "14651 ab_trukstpd Bow_bar_metal_cabinet",
+        "image": "Bow_bar_metal_cabinet"
+    },
+    {
+        "texture_name": "ab_trukstpd",
+        "object_texture": "14651 ab_trukstpd Bow_bar_flooring",
+        "image": "Bow_bar_flooring"
+    },
+    {
+        "texture_name": "ab_trukstpd",
+        "object_texture": "14651 ab_trukstpd bbar_poollamp1",
+        "image": "bbar_poollamp1"
+    },
+    {
+        "texture_name": "ab_trukstpb",
+        "object_texture": "14653 ab_trukstpb diner_seat3",
+        "image": "diner_seat3"
+    },
+    {
+        "texture_name": "ab_trukstpb",
+        "object_texture": "14653 ab_trukstpb mustard",
+        "image": "mustard"
+    },
+    {
+        "texture_name": "ab_trukstpb",
+        "object_texture": "14653 ab_trukstpb ketchup",
+        "image": "ketchup"
+    },
+    {
+        "texture_name": "ab_trukstpb",
+        "object_texture": "14653 ab_trukstpb napkin_disp",
+        "image": "napkin_disp"
+    },
+    {
+        "texture_name": "ab_trukstpb",
+        "object_texture": "14653 ab_trukstpb met_supp",
+        "image": "met_supp"
+    },
+    {
+        "texture_name": "ab_trukstpc",
+        "object_texture": "14650 ab_trukstpc mp_CJ_WOOD5",
+        "image": "mp_CJ_WOOD5"
+    },
+    {
+        "texture_name": "ab_trukstpc",
+        "object_texture": "14650 ab_trukstpc bras_base",
+        "image": "bras_base"
+    },
+    {
+        "texture_name": "ab_trukstpc",
+        "object_texture": "14650 ab_trukstpc sa_wood08_128",
+        "image": "sa_wood08_128"
+    },
+    {
+        "texture_name": "ab_trukstpc",
+        "object_texture": "14650 ab_trukstpc bbar_till1",
+        "image": "bbar_till1"
+    },
+    {
+        "texture_name": "ab_trukstpc",
+        "object_texture": "14650 ab_trukstpc Gen_Sacki",
+        "image": "Gen_Sacki"
+    },
+    {
+        "texture_name": "ab_trukstpe",
+        "object_texture": "14654 ab_trukstpe bbar_signs1",
+        "image": "bbar_signs1"
+    },
+    {
+        "texture_name": "ab_trukstpe",
+        "object_texture": "14654 ab_trukstpe bbar_sports1",
+        "image": "bbar_sports1"
+    },
+    {
+        "texture_name": "ab_trukstpe",
+        "object_texture": "14654 ab_trukstpe bbar_stuff9",
+        "image": "bbar_stuff9"
+    },
+    {
+        "texture_name": "ab_trukstpe",
+        "object_texture": "14654 ab_trukstpe bbar_plates2",
+        "image": "bbar_plates2"
+    },
+    {
+        "texture_name": "ab_trukstpe",
+        "object_texture": "14654 ab_trukstpe bbar_stuff3",
+        "image": "bbar_stuff3"
+    },
+    {
+        "texture_name": "ab_trukstpe",
+        "object_texture": "14654 ab_trukstpe bbar_stuff1",
+        "image": "bbar_stuff1"
+    },
+    {
+        "texture_name": "ab_veg",
+        "object_texture": "2592 ab_veg tubelite",
+        "image": "tubelite"
+    },
+    {
+        "texture_name": "ab_veg",
+        "object_texture": "2592 ab_veg ab_slotBase",
+        "image": "ab_slotBase"
+    },
+    {
+        "texture_name": "ab_wooziec",
+        "object_texture": "14535 ab_wooziec ab_woodborder",
+        "image": "ab_woodborder"
+    },
+    {
+        "texture_name": "ab_wooziec",
+        "object_texture": "14535 ab_wooziec ab_butfly_sword",
+        "image": "ab_butfly_sword"
+    },
+    {
+        "texture_name": "ab_wooziec",
+        "object_texture": "14535 ab_wooziec ab_wallfan",
+        "image": "ab_wallfan"
+    },
+    {
+        "texture_name": "ab_wooziec",
+        "object_texture": "14535 ab_wooziec ab_wallpaper01",
+        "image": "ab_wallpaper01"
+    },
+    {
+        "texture_name": "ab_wooziec",
+        "object_texture": "14535 ab_wooziec sink1",
+        "image": "sink1"
+    },
+    {
+        "texture_name": "ab_wooziec",
+        "object_texture": "14535 ab_wooziec wall4",
+        "image": "wall4"
+    },
+    {
+        "texture_name": "ab_vegasgymbits01",
+        "object_texture": "14486 ab_vegasgymbits01 bbar_wall2",
+        "image": "bbar_wall2"
+    },
+    {
+        "texture_name": "ab_vegasgymmain",
+        "object_texture": "14794 ab_vegasgymmain dt_compound_fanvent",
+        "image": "dt_compound_fanvent"
+    },
+    {
+        "texture_name": "ab_vegasgymmain",
+        "object_texture": "14794 ab_vegasgymmain barrel_64HV",
+        "image": "barrel_64HV"
+    },
+    {
+        "texture_name": "ab_vegasgymmain",
+        "object_texture": "14794 ab_vegasgymmain gym_pipes",
+        "image": "gym_pipes"
+    },
+    {
+        "texture_name": "ab_vegasgymmain",
+        "object_texture": "14794 ab_vegasgymmain Gym_rope",
+        "image": "Gym_rope"
+    },
+    {
+        "texture_name": "ab_vegasgymmain",
+        "object_texture": "14794 ab_vegasgymmain mp_CJ_SHEET2",
+        "image": "mp_CJ_SHEET2"
+    },
+    {
+        "texture_name": "ab_vegasgymmain",
+        "object_texture": "14794 ab_vegasgymmain studiowall2_law",
+        "image": "studiowall2_law"
+    },
+    {
+        "texture_name": "ab_vegasgymmain",
+        "object_texture": "14794 ab_vegasgymmain bbar_wall3",
+        "image": "bbar_wall3"
+    },
+    {
+        "texture_name": "ab_wooziesshad",
+        "object_texture": "14554 ab_wooziesshad shadow_wuzi_blak",
+        "image": "shadow_wuzi_blak"
+    },
+    {
+        "texture_name": "ab_woozieb",
+        "object_texture": "14544 ab_woozieb otb_numbers",
+        "image": "otb_numbers"
+    },
+    {
+        "texture_name": "ab_woozieb",
+        "object_texture": "14544 ab_woozieb golf_secgates1",
+        "image": "golf_secgates1"
+    },
+    {
+        "texture_name": "ab_woozieb",
+        "object_texture": "14544 ab_woozieb otb_signs",
+        "image": "otb_signs"
+    },
+    {
+        "texture_name": "ab_woozieb",
+        "object_texture": "14544 ab_woozieb ap_screens1",
+        "image": "ap_screens1"
+    },
+    {
+        "texture_name": "ab_woozieb",
+        "object_texture": "14544 ab_woozieb otb_mach1",
+        "image": "otb_mach1"
+    },
+    {
+        "texture_name": "ab_woozieb",
+        "object_texture": "14544 ab_woozieb otb_wind",
+        "image": "otb_wind"
+    },
+    {
+        "texture_name": "ab_xit_box",
+        "object_texture": "14538 ab_xit_box sw_door07",
+        "image": "sw_door07"
+    },
+    {
+        "texture_name": "ad_rmx",
+        "object_texture": "3076 ad_rmx ws_cargoshipdoor",
+        "image": "ws_cargoshipdoor"
+    },
+    {
+        "texture_name": "ad_rmx",
+        "object_texture": "3076 ad_rmx ammo_tube",
+        "image": "ammo_tube"
+    },
+    {
+        "texture_name": "addoorx",
+        "object_texture": "3061 addoorx lasjmdoorgud",
+        "image": "lasjmdoorgud"
+    },
+    {
+        "texture_name": "adswrdx",
+        "object_texture": "3028 adswrdx gun_katana",
+        "image": "gun_katana"
+    },
+    {
+        "texture_name": "adam_v_doort",
+        "object_texture": "1569 adam_v_doort ws_guardhousedoor",
+        "image": "ws_guardhousedoor"
+    },
+    {
+        "texture_name": "airportbits_sfse",
+        "object_texture": "10811 airportbits_sfse brckwhtwash128",
+        "image": "brckwhtwash128"
+    },
+    {
+        "texture_name": "airportbits_sfse",
+        "object_texture": "10811 airportbits_sfse ap_fuel2",
+        "image": "ap_fuel2"
+    },
+    {
+        "texture_name": "airportbits_sfse",
+        "object_texture": "10811 airportbits_sfse ap_fuel4",
+        "image": "ap_fuel4"
+    },
+    {
+        "texture_name": "airportbits_sfse",
+        "object_texture": "10811 airportbits_sfse ap_fuel3",
+        "image": "ap_fuel3"
+    },
+    {
+        "texture_name": "airportdetail",
+        "object_texture": "4992 airportdetail aarprt93LAS",
+        "image": "aarprt93LAS"
+    },
+    {
+        "texture_name": "airportdetail",
+        "object_texture": "4992 airportdetail aarprt92LAS",
+        "image": "aarprt92LAS"
+    },
+    {
+        "texture_name": "airportdetail",
+        "object_texture": "4992 airportdetail aarprt91LAS",
+        "image": "aarprt91LAS"
+    },
+    {
+        "texture_name": "airportdetail",
+        "object_texture": "4992 airportdetail kb_ivy_256",
+        "image": "kb_ivy_256"
+    },
+    {
+        "texture_name": "airportdetail",
+        "object_texture": "4992 airportdetail bevflower1",
+        "image": "bevflower1"
+    },
+    {
+        "texture_name": "airportdetail",
+        "object_texture": "4992 airportdetail prolaps01",
+        "image": "prolaps01"
+    },
+    {
+        "texture_name": "airportdetail",
+        "object_texture": "4992 airportdetail diderSachs01",
+        "image": "diderSachs01"
+    },
+    {
+        "texture_name": "airportdetail",
+        "object_texture": "4992 airportdetail ads003 copy",
+        "image": "ads003 copy"
+    },
+    {
+        "texture_name": "airportdetail",
+        "object_texture": "4992 airportdetail sm_Agave_1",
+        "image": "sm_Agave_1"
+    },
+    {
+        "texture_name": "airportdetail",
+        "object_texture": "4992 airportdetail hedge2",
+        "image": "hedge2"
+    },
+    {
+        "texture_name": "airwelcomesign_sfse",
+        "object_texture": "10838 airwelcomesign_sfse ws_airwelcome1",
+        "image": "ws_airwelcome1"
+    },
+    {
+        "texture_name": "airwelcomesign_sfse",
+        "object_texture": "10838 airwelcomesign_sfse bbback",
+        "image": "bbback"
+    },
+    {
+        "texture_name": "airwelcomesign_sfse",
+        "object_texture": "10838 airwelcomesign_sfse sl_rustyrailing",
+        "image": "sl_rustyrailing"
+    },
+    {
+        "texture_name": "alleyprop",
+        "object_texture": "1613 alleyprop stuffdirtcol",
+        "image": "stuffdirtcol"
+    },
+    {
+        "texture_name": "alleyprop",
+        "object_texture": "1613 alleyprop hoteldetails2",
+        "image": "hoteldetails2"
+    },
+    {
+        "texture_name": "airportcpark_sfse",
+        "object_texture": "10778 airportcpark_sfse ws_doubledoor1",
+        "image": "ws_doubledoor1"
+    },
+    {
+        "texture_name": "airportcpark_sfse",
+        "object_texture": "10778 airportcpark_sfse ws_carpark1",
+        "image": "ws_carpark1"
+    },
+    {
+        "texture_name": "airportcpark_sfse",
+        "object_texture": "10778 airportcpark_sfse elecbox2",
+        "image": "elecbox2"
+    },
+    {
+        "texture_name": "airportcpark_sfse",
+        "object_texture": "10778 airportcpark_sfse ws_carpark3",
+        "image": "ws_carpark3"
+    },
+    {
+        "texture_name": "airportcpark_sfse",
+        "object_texture": "10778 airportcpark_sfse vgsclubdoor02_128",
+        "image": "vgsclubdoor02_128"
+    },
+    {
+        "texture_name": "airportcpark_sfse",
+        "object_texture": "10778 airportcpark_sfse helipad_bits",
+        "image": "helipad_bits"
+    },
+    {
+        "texture_name": "airportcpark_sfse",
+        "object_texture": "10778 airportcpark_sfse ws_roadarrow1",
+        "image": "ws_roadarrow1"
+    },
+    {
+        "texture_name": "airportcpark_sfse",
+        "object_texture": "10778 airportcpark_sfse ws_aircarparksign1",
+        "image": "ws_aircarparksign1"
+    },
+    {
+        "texture_name": "airportcpark_sfse",
+        "object_texture": "10778 airportcpark_sfse ws_boothpanel",
+        "image": "ws_boothpanel"
+    },
+    {
+        "texture_name": "airportcpark_sfse",
+        "object_texture": "10778 airportcpark_sfse ws_fluorescent1",
+        "image": "ws_fluorescent1"
+    },
+    {
+        "texture_name": "airportcpark_sfse",
+        "object_texture": "10778 airportcpark_sfse ws_crashbarrier2",
+        "image": "ws_crashbarrier2"
+    },
+    {
+        "texture_name": "airportcpark_sfse",
+        "object_texture": "10778 airportcpark_sfse ws_crashbarrier",
+        "image": "ws_crashbarrier"
+    },
+    {
+        "texture_name": "airportcpark_sfse",
+        "object_texture": "10778 airportcpark_sfse ws_fireexit",
+        "image": "ws_fireexit"
+    },
+    {
+        "texture_name": "airportcpark_sfse",
+        "object_texture": "10778 airportcpark_sfse ws_fluorescent2",
+        "image": "ws_fluorescent2"
+    },
+    {
+        "texture_name": "ammotrx",
+        "object_texture": "3066 ammotrx ammotrn92tarp128",
+        "image": "ammotrn92tarp128"
+    },
+    {
+        "texture_name": "ammotrx",
+        "object_texture": "3066 ammotrx ammotrn92crate64",
+        "image": "ammotrn92crate64"
+    },
+    {
+        "texture_name": "arch_plx",
+        "object_texture": "3017 arch_plx arch_plans",
+        "image": "arch_plans"
+    },
+    {
+        "texture_name": "alleystuf",
+        "object_texture": "12821 alleystuff planks01",
+        "image": "planks01"
+    },
+    {
+        "texture_name": "alleystuf",
+        "object_texture": "12821 alleystuff cratec",
+        "image": "cratec"
+    },
+    {
+        "texture_name": "alleystuf",
+        "object_texture": "12821 alleystuff Crate_B",
+        "image": "Crate_B"
+    },
+    {
+        "texture_name": "alleystuf",
+        "object_texture": "12821 alleystuff sjmtair",
+        "image": "sjmtair"
+    },
+    {
+        "texture_name": "alleystuf",
+        "object_texture": "12821 alleystuff Gen_Crate",
+        "image": "Gen_Crate"
+    },
+    {
+        "texture_name": "archlax",
+        "object_texture": "3715 archlax arch_sign",
+        "image": "arch_sign"
+    },
+    {
+        "texture_name": "archlax",
+        "object_texture": "3715 archlax ws_greymetal",
+        "image": "ws_greymetal"
+    },
+    {
+        "texture_name": "archbrij",
+        "object_texture": "9575 archbrij conc_wall_stripd2128h",
+        "image": "conc_wall_stripd2128h"
+    },
+    {
+        "texture_name": "ammounique",
+        "object_texture": "2619 ammounique mp_gun_man1",
+        "image": "mp_gun_man1"
+    },
+    {
+        "texture_name": "ap_learjets",
+        "object_texture": "1681 ap_learjets ap_learjet",
+        "image": "ap_learjet"
+    },
+    {
+        "texture_name": "arsex",
+        "object_texture": "2990 arsex nopark128",
+        "image": "nopark128"
+    },
+    {
+        "texture_name": "arsex",
+        "object_texture": "2990 arsex steel128",
+        "image": "steel128"
+    },
+    {
+        "texture_name": "arsex",
+        "object_texture": "2990 arsex blackdirt",
+        "image": "blackdirt"
+    },
+    {
+        "texture_name": "ap_misc1bit",
+        "object_texture": "1682 ap_misc1bit ap_radar",
+        "image": "ap_radar"
     }
+
+
+
+
 ]
