@@ -2541,8 +2541,8 @@
     },
     {
         "texture_name": "ammu_lan2",
-        "object_texture": "4552 ammu_lan2 chinashop2",
-        "image": "chinashop2"
+        "object_texture": "4552 ammu_lan2 sf_chinashop2",
+        "image": "sf_chinashop2"
     },
     {
         "texture_name": "ammu_lan2",
