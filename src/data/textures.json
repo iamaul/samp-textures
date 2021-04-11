@@ -711,7 +711,7 @@
     },
     {
         "texture_name": "a51jdrx",
-        "object_texture": "2887 a51jdrx sam_camo",
+        "object_texture": "3095 a51jdrx sam_camo",
         "image": "sam_camo"
     },
     {
@@ -2249,8 +2249,4 @@
         "object_texture": "1682 ap_misc1bit ap_radar",
         "image": "ap_radar"
     }
-
-
-
-
 ]
