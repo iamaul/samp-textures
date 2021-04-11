@@ -2248,5 +2248,780 @@
         "texture_name": "ap_misc1bit",
         "object_texture": "1682 ap_misc1bit ap_radar",
         "image": "ap_radar"
+    },
+    {
+        "texture_name": "airportgnd_sfse",
+        "object_texture": "10765 airportgnd_sfse ws_oldpainted2rusty",
+        "image": "ws_oldpainted2rusty"
+    },
+    {
+        "texture_name": "airportgnd_sfse",
+        "object_texture": "10765 airportgnd_sfse ws_bridgepavement2",
+        "image": "ws_bridgepavement2"
+    },
+    {
+        "texture_name": "airportgnd_sfse",
+        "object_texture": "10765 airportgnd_sfse ws_whiteplaster_btm",
+        "image": "ws_whiteplaster_btm"
+    },
+    {
+        "texture_name": "airportgnd_sfse",
+        "object_texture": "10765 airportgnd_sfse ws_whiteplaster_top",
+        "image": "ws_whiteplaster_top"
+    },
+    {
+        "texture_name": "airportgnd_sfse",
+        "object_texture": "10765 airportgnd_sfse ws_airpt_concrete",
+        "image": "ws_airpt_concrete"
+    },
+    {
+        "texture_name": "airportgnd_sfse",
+        "object_texture": "10765 airportgnd_sfse black64",
+        "image": "black64"
+    },
+    {
+        "texture_name": "airportgnd_sfse",
+        "object_texture": "10765 airportgnd_sfse ap_metal1",
+        "image": "ap_metal1"
+    },
+    {
+        "texture_name": "airportgnd_sfse",
+        "object_texture": "10765 airportgnd_sfse ws_whitestripe",
+        "image": "ws_whitestripe"
+    },
+    {
+        "texture_name": "airportgnd_sfse",
+        "object_texture": "10765 airportgnd_sfse ws_yellowline",
+        "image": "ws_yellowline"
+    },
+    {
+        "texture_name": "airportgnd_sfse",
+        "object_texture": "10765 airportgnd_sfse gridchev_64HV",
+        "image": "gridchev_64HV"
+    },
+    {
+        "texture_name": "airportgnd_sfse",
+        "object_texture": "10765 airportgnd_sfse crackedgroundb",
+        "image": "crackedgroundb"
+    },
+    {
+        "texture_name": "airportgnd_sfse",
+        "object_texture": "10765 airportgnd_sfse ap_runwaysigns2",
+        "image": "ap_runwaysigns2"
+    },
+    {
+        "texture_name": "airportgnd_sfse",
+        "object_texture": "10765 airportgnd_sfse ap_runwaysigns",
+        "image": "ap_runwaysigns"
+    },
+    {
+        "texture_name": "airportgnd_sfse",
+        "object_texture": "10765 airportgnd_sfse ws_runwaytarmac",
+        "image": "ws_runwaytarmac"
+    },
+    {
+        "texture_name": "airportgnd_sfse",
+        "object_texture": "10765 airportgnd_sfse sea_wall_temp",
+        "image": "sea_wall_temp"
+    },
+    {
+        "texture_name": "airportgnd_sfse",
+        "object_texture": "10765 airportgnd_sfse desgreengrass",
+        "image": "desgreengrass"
+    },
+    {
+        "texture_name": "airportgnd_sfse",
+        "object_texture": "10765 airportgnd_sfse white",
+        "image": "white"
+    },
+    {
+        "texture_name": "airportgnd_sfse",
+        "object_texture": "10765 airportgnd_sfse coasty_bit3_sfe",
+        "image": "coasty_bit3_sfe"
+    },
+    {
+        "texture_name": "airportgnd_sfse",
+        "object_texture": "10765 airportgnd_sfse bobo_3",
+        "image": "bobo_3"
+    },
+    {
+        "texture_name": "airportgnd_sfse",
+        "object_texture": "10765 airportgnd_sfse sf_pave2",
+        "image": "sf_pave2"
+    },
+    {
+        "texture_name": "airportgnd_sfse",
+        "object_texture": "10765 airportgnd_sfse ws_skidmarks",
+        "image": "ws_skidmarks"
+    },
+    {
+        "texture_name": "airprtrunway_las",
+        "object_texture": "4833 airprtrunway_las bobo_2",
+        "image": "bobo_2"
+    },
+    {
+        "texture_name": "airprtrunway_las",
+        "object_texture": "4833 airprtrunway_las policeha02black_128",
+        "image": "policeha02black_128"
+    },
+    {
+        "texture_name": "airprtrunway_las",
+        "object_texture": "4833 airprtrunway_las Gen_Meshfencing",
+        "image": "Gen_Meshfencing"
+    },
+    {
+        "texture_name": "airprtrunway_las",
+        "object_texture": "4833 airprtrunway_las homies_1",
+        "image": "homies_1"
+    },
+    {
+        "texture_name": "airprtrunway_las",
+        "object_texture": "4833 airprtrunway_las cos_hiwaymid_256",
+        "image": "cos_hiwaymid_256"
+    },
+    {
+        "texture_name": "airprtrunway_las",
+        "object_texture": "4833 airprtrunway_las lasjmfence1",
+        "image": "lasjmfence1"
+    },
+    {
+        "texture_name": "airprtrunway_las",
+        "object_texture": "4833 airprtrunway_las Mannblok2_LAn",
+        "image": "Mannblok2_LAn"
+    },
+    {
+        "texture_name": "airprtrunway_las",
+        "object_texture": "4833 airprtrunway_las greyground256",
+        "image": "greyground256"
+    },
+    {
+        "texture_name": "airprtrunway_las",
+        "object_texture": "4833 airprtrunway_las dockwall1",
+        "image": "dockwall1"
+    },
+    {
+        "texture_name": "airprtrunway_las",
+        "object_texture": "4833 airprtrunway_las desbarlas",
+        "image": "desbarlas"
+    },
+    {
+        "texture_name": "airprtrunway_las",
+        "object_texture": "4833 airprtrunway_las tuntest1las",
+        "image": "tuntest1las"
+    },
+    {
+        "texture_name": "airprtrunway_las",
+        "object_texture": "4833 airprtrunway_las asandockw",
+        "image": "asandockw"
+    },
+    {
+        "texture_name": "airprtrunway_las",
+        "object_texture": "4833 airprtrunway_las ws_bluelino",
+        "image": "ws_bluelino"
+    },
+    {
+        "texture_name": "airportroads_sfse",
+        "object_texture": "10756 airportroads_sfse dt_road_stoplinea",
+        "image": "dt_road_stoplinea"
+    },
+    {
+        "texture_name": "airportroads_sfse",
+        "object_texture": "10756 airportroads_sfse sf_pave6",
+        "image": "sf_pave6"
+    },
+    {
+        "texture_name": "airportroads_sfse",
+        "object_texture": "10756 airportroads_sfse sf_road5",
+        "image": "sf_road5"
+    },
+    {
+        "texture_name": "airportroads_sfse",
+        "object_texture": "10756 airportroads_sfse Heliconcrete",
+        "image": "Heliconcrete"
+    },
+    {
+        "texture_name": "airportroads_sfse",
+        "object_texture": "10756 airportroads_sfse sf_junction5",
+        "image": "sf_junction5"
+    },
+    {
+        "texture_name": "airportroads_sfse",
+        "object_texture": "10756 airportroads_sfse ws_white_wall1",
+        "image": "ws_white_wall1"
+    },
+    {
+        "texture_name": "airportroads_sfse",
+        "object_texture": "10756 airportroads_sfse stones256128",
+        "image": "stones256128"
+    },
+    {
+        "texture_name": "airportroads_sfse",
+        "object_texture": "10756 airportroads_sfse ws_airbigsign2",
+        "image": "ws_airbigsign2"
+    },
+    {
+        "texture_name": "airportrminl_sfse",
+        "object_texture": "10755 airportrminl_sfse bumptile",
+        "image": "bumptile"
+    },
+    {
+        "texture_name": "airportrminl_sfse",
+        "object_texture": "10755 airportrminl_sfse mirrwind4_LAn",
+        "image": "mirrwind4_LAn"
+    },
+    {
+        "texture_name": "airportrminl_sfse",
+        "object_texture": "10755 airportrminl_sfse ws_airportwall2",
+        "image": "ws_airportwall2"
+    },
+    {
+        "texture_name": "airportrminl_sfse",
+        "object_texture": "10755 airportrminl_sfse ws_airportwall1",
+        "image": "ws_airportwall1"
+    },
+    {
+        "texture_name": "airportrminl_sfse",
+        "object_texture": "10755 airportrminl_sfse ws_airportwin3",
+        "image": "ws_airportwin3"
+    },
+    {
+        "texture_name": "airportrminl_sfse",
+        "object_texture": "10755 airportrminl_sfse ws_airportwin2",
+        "image": "ws_airportwin2"
+    },
+    {
+        "texture_name": "airportrminl_sfse",
+        "object_texture": "10755 airportrminl_sfse ws_airportconc1",
+        "image": "ws_airportconc1"
+    },
+    {
+        "texture_name": "airportrminl_sfse",
+        "object_texture": "10755 airportrminl_sfse ws_dom_departures",
+        "image": "ws_dom_departures"
+    },
+    {
+        "texture_name": "ammu_lan2",
+        "object_texture": "4552 ammu_lan2 corporate1",
+        "image": "corporate1"
+    },
+    {
+        "texture_name": "ammu_lan2",
+        "object_texture": "4552 ammu_lan2 mallextmid01",
+        "image": "mallextmid01"
+    },
+    {
+        "texture_name": "ammu_lan2",
+        "object_texture": "4552 ammu_lan2 sunsetammu4",
+        "image": "sunsetammu4"
+    },
+    {
+        "texture_name": "ammu_lan2",
+        "object_texture": "4552 ammu_lan2 sunsetammu2",
+        "image": "sunsetammu2"
+    },
+    {
+        "texture_name": "ammu_lan2",
+        "object_texture": "4552 ammu_lan2 sunsetammu1",
+        "image": "sunsetammu1"
+    },
+    {
+        "texture_name": "ammu_lan2",
+        "object_texture": "4552 ammu_lan2 sl_fudstore2",
+        "image": "sl_fudstore2"
+    },
+    {
+        "texture_name": "ammu_lan2",
+        "object_texture": "4552 ammu_lan2 newall4-4",
+        "image": "newall4-4"
+    },
+    {
+        "texture_name": "ammu_lan2",
+        "object_texture": "4552 ammu_lan2 dior",
+        "image": "dior"
+    },
+    {
+        "texture_name": "ammu_lan2",
+        "object_texture": "4552 ammu_lan2 chinashop2",
+        "image": "chinashop2"
+    },
+    {
+        "texture_name": "ammu_lan2",
+        "object_texture": "4552 ammu_lan2 sl_fudstore1",
+        "image": "sl_fudstore1"
+    },
+    {
+        "texture_name": "ammu_lan2",
+        "object_texture": "4552 ammu_lan2 sl_lavicdtwall1",
+        "image": "sl_lavicdtwall1"
+    },
+    {
+        "texture_name": "ammu_lan2",
+        "object_texture": "4552 ammu_lan2 sl_dtrufrear2wall1",
+        "image": "sl_dtrufrear2wall1"
+    },
+    {
+        "texture_name": "ammu_lan2",
+        "object_texture": "4552 ammu_lan2 sl_dtrufrear2win2",
+        "image": "sl_dtrufrear2win2"
+    },
+    {
+        "texture_name": "ammu_lan2",
+        "object_texture": "4552 ammu_lan2 sl_dtrufrear2win1",
+        "image": "sl_dtrufrear2win1"
+    },
+    {
+        "texture_name": "ammu_lan2",
+        "object_texture": "4552 ammu_lan2 foodmartla1",
+        "image": "foodmartla1"
+    },
+    {
+        "texture_name": "ammu_lan2",
+        "object_texture": "4552 ammu_lan2 sl_dtbuild02win1",
+        "image": "sl_dtbuild02win1"
+    },
+    {
+        "texture_name": "ammu_lan2",
+        "object_texture": "4552 ammu_lan2 gun_python",
+        "image": "gun_python"
+    },
+    {
+        "texture_name": "ammu_lan2",
+        "object_texture": "4552 ammu_lan2 sl_dtrufrear2win3",
+        "image": "sl_dtrufrear2win3"
+    },
+    {
+        "texture_name": "ammu_2flrprops",
+        "object_texture": "18050 ammu_2flrprops gun_target3",
+        "image": "gun_target3"
+    },
+    {
+        "texture_name": "ammu_2flrprops",
+        "object_texture": "18050 ammu_2flrprops gun_target2",
+        "image": "gun_target2"
+    },
+    {
+        "texture_name": "ammu_2flrprops",
+        "object_texture": "18050 ammu_2flrprops gun_target1",
+        "image": "gun_target1"
+    },
+    {
+        "texture_name": "ammu_2flrprops",
+        "object_texture": "18050 ammu_2flrprops gun_xtra4",
+        "image": "gun_xtra4"
+    },
+    {
+        "texture_name": "ammu_2flrprops",
+        "object_texture": "18050 ammu_2flrprops ammu_boots3",
+        "image": "ammu_boots3"
+    },
+    {
+        "texture_name": "ammu_2flrprops",
+        "object_texture": "18050 ammu_2flrprops ammu_hats",
+        "image": "ammu_hats"
+    },
+    {
+        "texture_name": "ammu_2flrprops",
+        "object_texture": "18050 ammu_2flrprops dt_ammu_flr1",
+        "image": "dt_ammu_flr1"
+    },
+    {
+        "texture_name": "ammu_2flrprops",
+        "object_texture": "18050 ammu_2flrprops chipboard_256128",
+        "image": "chipboard_256128"
+    },
+    {
+        "texture_name": "ammu_twofloor",
+        "object_texture": "18049 ammu_twofloor gun_bacboard",
+        "image": "gun_bacboard"
+    },
+    {
+        "texture_name": "ammu_twofloor",
+        "object_texture": "18049 ammu_twofloor mp_gun_stairs",
+        "image": "mp_gun_stairs"
+    },
+    {
+        "texture_name": "ammu_twofloor",
+        "object_texture": "18049 ammu_twofloor gun_windo",
+        "image": "gun_windo"
+    },
+    {
+        "texture_name": "ammu_twofloor",
+        "object_texture": "18049 ammu_twofloor CJ_BACK_BOARD",
+        "image": "CJ_BACK_BOARD"
+    },
+    {
+        "texture_name": "ammu_twofloor",
+        "object_texture": "18049 ammu_twofloor concretebig4256128",
+        "image": "concretebig4256128"
+    },
+    {
+        "texture_name": "ammu_twofloor",
+        "object_texture": "18049 ammu_twofloor gun_ceiling2",
+        "image": "gun_ceiling2"
+    },
+    {
+        "texture_name": "anotherbuildsfe",
+        "object_texture": "9920 anotherbuildsfe gz_vic1c",
+        "image": "gz_vic1c"
+    },
+    {
+        "texture_name": "anotherbuildsfe",
+        "object_texture": "9920 anotherbuildsfe gz_vic1d",
+        "image": "gz_vic1d"
+    },
+    {
+        "texture_name": "anotherbuildsfe",
+        "object_texture": "9920 anotherbuildsfe gz_vic1b",
+        "image": "gz_vic1b"
+    },
+    {
+        "texture_name": "anotherbuildsfe",
+        "object_texture": "9920 anotherbuildsfe gz_vic1e",
+        "image": "gz_vic1e"
+    },
+    {
+        "texture_name": "anotherbuildsfe",
+        "object_texture": "9920 anotherbuildsfe grassgrn256",
+        "image": "grassgrn256"
+    },
+    {
+        "texture_name": "anotherbuildsfe",
+        "object_texture": "9920 anotherbuildsfe gz_vic1a",
+        "image": "gz_vic1a"
+    },
+    {
+        "texture_name": "anotherbuildsfe",
+        "object_texture": "9920 anotherbuildsfe gz_vic2c",
+        "image": "gz_vic2c"
+    },
+    {
+        "texture_name": "anotherbuildsfe",
+        "object_texture": "9920 anotherbuildsfe gz_vic2a",
+        "image": "gz_vic2a"
+    },
+    {
+        "texture_name": "anotherbuildsfe",
+        "object_texture": "9920 anotherbuildsfe gz_vic2d",
+        "image": "gz_vic2d"
+    },
+    {
+        "texture_name": "anotherbuildsfe",
+        "object_texture": "9920 anotherbuildsfe gz_vic2b",
+        "image": "gz_vic2b"
+    },
+    {
+        "texture_name": "apartmentalpha",
+        "object_texture": "5631 apartmentalpha aptsign01_LA",
+        "image": "aptsign01_LA"
+    },
+    {
+        "texture_name": "apartmentalpha",
+        "object_texture": "5631 apartmentalpha ws_railing1",
+        "image": "ws_railing1"
+    },
+    {
+        "texture_name": "apartmentalpha",
+        "object_texture": "5631 apartmentalpha gymshop1_LAe",
+        "image": "gymshop1_LAe"
+    },
+    {
+        "texture_name": "alleys_sfs",
+        "object_texture": "10370 alleys_sfs ws_sandstone1",
+        "image": "ws_sandstone1"
+    },
+    {
+        "texture_name": "alleys_sfs",
+        "object_texture": "10370 alleys_sfs ws_alley_conc3",
+        "image": "ws_alley_conc3"
+    },
+    {
+        "texture_name": "alleys_sfs",
+        "object_texture": "10370 alleys_sfs ws_asphalt",
+        "image": "ws_asphalt"
+    },
+    {
+        "texture_name": "arprtxxref_las",
+        "object_texture": "3629 arprtxxref_las aarprt4LAS",
+        "image": "aarprt4LAS"
+    },
+    {
+        "texture_name": "arprtxxref_las",
+        "object_texture": "3629 arprtxxref_las lastrk6",
+        "image": "lastrk6"
+    },
+    {
+        "texture_name": "arprtxxref_las",
+        "object_texture": "3629 arprtxxref_las airstoof1_LAS",
+        "image": "airstoof1_LAS"
+    },
+    {
+        "texture_name": "arprtxxref_las",
+        "object_texture": "3629 arprtxxref_las metaldoor_128",
+        "image": "metaldoor_128"
+    },
+    {
+        "texture_name": "arprtxxref_las",
+        "object_texture": "3629 arprtxxref_las rustybolts",
+        "image": "rustybolts"
+    },
+    {
+        "texture_name": "arprtxxref_las",
+        "object_texture": "3629 arprtxxref_las shuttersb",
+        "image": "shuttersb"
+    },
+    {
+        "texture_name": "arprtxxref_las",
+        "object_texture": "3629 arprtxxref_las planetunnel_64HV",
+        "image": "planetunnel_64HV"
+    },
+    {
+        "texture_name": "arprtxxref_las",
+        "object_texture": "3629 arprtxxref_las airsetest1_LAS",
+        "image": "airsetest1_LAS"
+    },
+    {
+        "texture_name": "arprtxxref_las",
+        "object_texture": "3629 arprtxxref_las ws_corrugateddoor1",
+        "image": "ws_corrugateddoor1"
+    },
+    {
+        "texture_name": "arprtxxref_las",
+        "object_texture": "3629 arprtxxref_las corrRoof_64HV",
+        "image": "corrRoof_64HV"
+    },
+    {
+        "texture_name": "arprtxxref_las",
+        "object_texture": "3629 arprtxxref_las dirtywhite",
+        "image": "dirtywhite"
+    },
+    {
+        "texture_name": "arprtxxref_las",
+        "object_texture": "3629 arprtxxref_las chevron64HVa",
+        "image": "chevron64HVa"
+    },
+    {
+        "texture_name": "arprtxxref_las",
+        "object_texture": "3629 arprtxxref_las dustytar_64HV",
+        "image": "dustytar_64HV"
+    },
+    {
+        "texture_name": "arprtxxref_las",
+        "object_texture": "3629 arprtxxref_las grn_window2_16",
+        "image": "grn_window2_16"
+    },
+    {
+        "texture_name": "arprtxxref_las",
+        "object_texture": "3629 arprtxxref_las ws_corrugated2",
+        "image": "ws_corrugated2"
+    },
+    {
+        "texture_name": "arprtxxref_las",
+        "object_texture": "3629 arprtxxref_las ws_corrugated1",
+        "image": "ws_corrugated1"
+    },
+    {
+        "texture_name": "arprtxxref_las",
+        "object_texture": "3629 arprtxxref_las wheel02_64",
+        "image": "wheel02_64"
+    },
+    {
+        "texture_name": "archybuild10",
+        "object_texture": "10041 archybuild10 rooftop_gz3",
+        "image": "rooftop_gz3"
+    },
+    {
+        "texture_name": "archybuild10",
+        "object_texture": "10041 archybuild10 copshop5",
+        "image": "copshop5"
+    },
+    {
+        "texture_name": "archybuild10",
+        "object_texture": "10041 archybuild10 copshop3",
+        "image": "copshop3"
+    },
+    {
+        "texture_name": "archybuild10",
+        "object_texture": "10041 archybuild10 copshop2",
+        "image": "copshop2"
+    },
+    {
+        "texture_name": "archybuild10",
+        "object_texture": "10041 archybuild10 bank_sfe5",
+        "image": "bank_sfe5"
+    },
+    {
+        "texture_name": "archybuild10",
+        "object_texture": "10041 archybuild10 bank_sfe2",
+        "image": "bank_sfe2"
+    },
+    {
+        "texture_name": "archybuild10",
+        "object_texture": "10041 archybuild10 Upt_Conc floorClean",
+        "image": "Upt_Conc floorClean"
+    },
+    {
+        "texture_name": "archybuild10",
+        "object_texture": "10041 archybuild10 copshop6",
+        "image": "copshop6"
+    },
+    {
+        "texture_name": "archybuild10",
+        "object_texture": "10041 archybuild10 whitedecosfe4",
+        "image": "whitedecosfe4"
+    },
+    {
+        "texture_name": "archybuild10",
+        "object_texture": "10041 archybuild10 hotel_bit2",
+        "image": "hotel_bit2"
+    },
+    {
+        "texture_name": "archybuild10",
+        "object_texture": "10041 archybuild10 whitedecosfe1",
+        "image": "whitedecosfe1"
+    },
+    {
+        "texture_name": "archybuild10",
+        "object_texture": "10041 archybuild10 whitedecosfe2",
+        "image": "whitedecosfe2"
+    },
+    {
+        "texture_name": "archybuild10",
+        "object_texture": "10041 archybuild10 stonesteps1",
+        "image": "stonesteps1"
+    },
+    {
+        "texture_name": "archybuild10",
+        "object_texture": "10041 archybuild10 sfe_bigbuild2",
+        "image": "sfe_bigbuild2"
+    },
+    {
+        "texture_name": "archybuild10",
+        "object_texture": "10041 archybuild10 sf_windos_15",
+        "image": "sf_windos_15"
+    },
+    {
+        "texture_name": "archybuild10",
+        "object_texture": "10041 archybuild10 sf_windos_15b",
+        "image": "sf_windos_15b"
+    },
+    {
+        "texture_name": "archybuild10",
+        "object_texture": "10041 archybuild10 sf_windos_9",
+        "image": "sf_windos_9"
+    },
+    {
+        "texture_name": "archybuild10",
+        "object_texture": "10041 archybuild10 sfe_pinkbuild2",
+        "image": "sfe_pinkbuild2"
+    },
+    {
+        "texture_name": "archybuild10",
+        "object_texture": "10041 archybuild10 sfe_pinkbuild1",
+        "image": "sfe_pinkbuild1"
+    },
+    {
+        "texture_name": "archybuild10",
+        "object_texture": "10041 archybuild10 sf_windos_8",
+        "image": "sf_windos_8"
+    },
+    {
+        "texture_name": "archybuild10",
+        "object_texture": "10041 archybuild10 sf_windos_7",
+        "image": "sf_windos_7"
+    },
+    {
+        "texture_name": "archybuild10",
+        "object_texture": "10041 archybuild10 whitedecosfe3",
+        "image": "whitedecosfe3"
+    },
+    {
+        "texture_name": "archybuild10",
+        "object_texture": "10041 archybuild10 sf_shop2",
+        "image": "sf_shop2"
+    },
+    {
+        "texture_name": "archybuild10",
+        "object_texture": "10041 archybuild10 vgnburgwal5_256",
+        "image": "vgnburgwal5_256"
+    },
+    {
+        "texture_name": "archybuild10",
+        "object_texture": "10041 archybuild10 vgnburgwal4_128",
+        "image": "vgnburgwal4_128"
+    },
+    {
+        "texture_name": "apsecurity_sfxrf",
+        "object_texture": "3881 apsecurity_sfxrf leather_seat_256",
+        "image": "leather_seat_256"
+    },
+    {
+        "texture_name": "apsecurity_sfxrf",
+        "object_texture": "3881 apsecurity_sfxrf WIN_DESKTOP",
+        "image": "WIN_DESKTOP"
+    },
+    {
+        "texture_name": "apsecurity_sfxrf",
+        "object_texture": "3881 apsecurity_sfxrf CJ_WOOD1",
+        "image": "CJ_WOOD1"
+    },
+    {
+        "texture_name": "apsecurity_sfxrf",
+        "object_texture": "3881 apsecurity_sfxrf chromepipe2_64HV",
+        "image": "chromepipe2_64HV"
+    },
+    {
+        "texture_name": "apsecurity_sfxrf",
+        "object_texture": "3881 apsecurity_sfxrf ws_altz_wall10",
+        "image": "ws_altz_wall10"
+    },
+    {
+        "texture_name": "apsecurity_sfxrf",
+        "object_texture": "3881 apsecurity_sfxrf ws_rooftarmac2",
+        "image": "ws_rooftarmac2"
+    },
+    {
+        "texture_name": "apsecurity_sfxrf",
+        "object_texture": "3881 apsecurity_sfxrf lostonclad1",
+        "image": "lostonclad1"
+    },
+    {
+        "texture_name": "ap_jumbos",
+        "object_texture": "1683 ap_jumbos airblock3",
+        "image": "airblock3"
+    },
+    {
+        "texture_name": "ap_jumbos",
+        "object_texture": "1683 ap_jumbos airblock2",
+        "image": "airblock2"
+    },
+    {
+        "texture_name": "ap_jumbos",
+        "object_texture": "1683 ap_jumbos airblock1",
+        "image": "airblock1"
+    },
+    {
+        "texture_name": "ap_jumbos",
+        "object_texture": "1683 ap_jumbos blackshadow4",
+        "image": "blackshadow4"
+    },
+    {
+        "texture_name": "ap_build4e",
+        "object_texture": "10810 ap_build4e redpylon",
+        "image": "redpylon"
+    },
+    {
+        "texture_name": "ap_build4e",
+        "object_texture": "10810 ap_build4e redwhite_stripe",
+        "image": "redwhite_stripe"
+    },
+    {
+        "texture_name": "ap_build4e",
+        "object_texture": "10810 ap_build4e roof09L256",
+        "image": "roof09L256"
+    },
+    {
+        "texture_name": "ap_build4e",
+        "object_texture": "10810 ap_build4e airportdanger",
+        "image": "airportdanger"
     }
 ]
