@@ -711,7 +711,7 @@
     },
     {
         "texture_name": "a51jdrx",
-        "object_texture": "2887 a51jdrx sam_camo",
+        "object_texture": "3095 a51jdrx sam_camo",
         "image": "sam_camo"
     },
     {
@@ -1331,8 +1331,8 @@
     },
     {
         "texture_name": "ab_sfgymmain",
-        "object_texture": "14789 ab_sfgymmain ab_pabelWall02",
-        "image": "ab_pabelWall02"
+        "object_texture": "14789 ab_sfgymmain ab_panelWall02",
+        "image": "ab_panelWall02"
     },
     {
         "texture_name": "ab_sfgymmain",
@@ -1411,8 +1411,8 @@
     },
     {
         "texture_name": "ab_trukstpd",
-        "object_texture": "14651 ab_trukstpd Bow_bar_tablebase",
-        "image": "Bow_bar_tablebase"
+        "object_texture": "14651 ab_trukstpd Bow_bar_pool_tablebase",
+        "image": "Bow_bar_pool_tablebase"
     },
     {
         "texture_name": "ab_trukstpd",
