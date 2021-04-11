@@ -98,7 +98,7 @@ export const Main = ({ textures }: TextureProps) => {
                 <FormControl>
                     <FormLabel>🔎 Search</FormLabel>
                     <Input
-                        placeholder="a51"
+                        placeholder="Keywords: door, wall, sign, etc.."
                         onChange={(e) => { filterOnSearch(e.target.value) }}
                     />
                 </FormControl>
