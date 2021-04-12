@@ -7,23 +7,28 @@ import {
     Image, 
     useColorMode, 
     useToast,
-    useColorModeValue
 } from '@chakra-ui/react';
+
+import useSound from 'use-sound';
 
 import { TextureType } from '@/model/Texture';
 
 import MotionBox from './MotionBox';
 
+import switchOnSound from 'public/sounds/switch-on.mp3';
+
 export const Card = ({ texture_name, object_texture, image }: TextureType) => {
     const toast = useToast();
+    const [play] = useSound(switchOnSound);
 
     const copyObjectTexture = async (object_texture: string) => {
         if (navigator && navigator.clipboard) {
             await navigator.clipboard.writeText(object_texture);
             toast.closeAll();
 
+            play();
             toast({
-                title: '🎉',
+                title: '🤩',
                 description: `Copied texture ${texture_name} to your clipboard`,
                 status: 'success',
                 duration: 4000,

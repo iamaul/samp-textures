@@ -9,8 +9,8 @@ export const Hero = ({ title, subtitle }: { title: string, subtitle: string }) =
         alignItems="center"
         flexDirection="column"
     >
-        <Heading fontSize="6vw">{title} <Text as={'span'} color={'red.300'}>{subtitle}</Text></Heading>
-        <Text fontSize={['0.9em', '1.3em']}>
+        <Heading fontSize="7vw">{title} <Text as={'span'} color={'red.300'}>{subtitle}</Text></Heading>
+        <Text fontSize={['0.9em', '1em']}>
             {siteConfig.description}
         </Text>
     </Flex>
