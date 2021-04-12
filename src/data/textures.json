@@ -4428,5 +4428,760 @@
         "texture_name": "billbrd01_lan",
         "object_texture": "4230 billbrd01_lan eris_2",
         "image": "eris_2"
+    },
+    {
+        "texture_name": "beafron1_law2",
+        "object_texture": "6404 beafron1_law2 pierwin03_law",
+        "image": "pierwin03_law"
+    },
+    {
+        "texture_name": "beafron1_law2",
+        "object_texture": "6404 beafron1_law2 comptwall37",
+        "image": "comptwall37"
+    },
+    {
+        "texture_name": "beafron1_law2",
+        "object_texture": "6404 beafron1_law2 cafe01_law",
+        "image": "cafe01_law"
+    },
+    {
+        "texture_name": "beafron1_law2",
+        "object_texture": "6404 beafron1_law2 vencounter01_law",
+        "image": "vencounter01_law"
+    },
+    {
+        "texture_name": "beafron1_law2",
+        "object_texture": "6404 beafron1_law2 shingledblue_la",
+        "image": "shingledblue_la"
+    },
+    {
+        "texture_name": "beafron1_law2",
+        "object_texture": "6404 beafron1_law2 Gen_Scaffold_Wood_Under",
+        "image": "Gen_Scaffold_Wood_Under"
+    },
+    {
+        "texture_name": "beafron1_law2",
+        "object_texture": "6404 beafron1_law2 beachsig01_LAw2",
+        "image": "beachsig01_LAw2"
+    },
+    {
+        "texture_name": "beafron1_law2",
+        "object_texture": "6404 beafron1_law2 rippost01_LA",
+        "image": "rippost01_LA"
+    },
+    {
+        "texture_name": "beafron1_law2",
+        "object_texture": "6404 beafron1_law2 shutter02LA",
+        "image": "shutter02LA"
+    },
+    {
+        "texture_name": "beafron1_law2",
+        "object_texture": "6404 beafron1_law2 woodroof01_128",
+        "image": "woodroof01_128"
+    },
+    {
+        "texture_name": "beafron1_law2",
+        "object_texture": "6404 beafron1_law2 venshops02_law",
+        "image": "venshops02_law"
+    },
+    {
+        "texture_name": "beafron1_law2",
+        "object_texture": "6404 beafron1_law2 icecream_law",
+        "image": "icecream_law"
+    },
+    {
+        "texture_name": "beafron1_law2",
+        "object_texture": "6404 beafron1_law2 blueshade2_64",
+        "image": "blueshade2_64"
+    },
+    {
+        "texture_name": "beafron1_law2",
+        "object_texture": "6404 beafron1_law2 pierroof01_law",
+        "image": "pierroof01_law"
+    },
+    {
+        "texture_name": "beafron1_law2",
+        "object_texture": "6404 beafron1_law2 compfence7_LAe",
+        "image": "compfence7_LAe"
+    },
+    {
+        "texture_name": "beafron1_law2",
+        "object_texture": "6404 beafron1_law2 comptwall30",
+        "image": "comptwall30"
+    },
+    {
+        "texture_name": "beafron1_law2",
+        "object_texture": "6404 beafron1_law2 shutter04LA",
+        "image": "shutter04LA"
+    },
+    {
+        "texture_name": "beafron1_law2",
+        "object_texture": "6404 beafron1_law2 pierbild01_law",
+        "image": "pierbild01_law"
+    },
+    {
+        "texture_name": "beafron1_law2",
+        "object_texture": "6404 beafron1_law2 melroran3_law",
+        "image": "melroran3_law"
+    },
+    {
+        "texture_name": "beafron1_law2",
+        "object_texture": "6404 beafron1_law2 comptwall31",
+        "image": "comptwall31"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la pierwin01_law",
+        "image": "pierwin01_law"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la hottop5d_law",
+        "image": "hottop5d_law"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la garagedoor4_law",
+        "image": "garagedoor4_law"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la aamanbev7x",
+        "image": "aamanbev7x"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la aamanbev6x",
+        "image": "aamanbev6x"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la aamanbev5x",
+        "image": "aamanbev5x"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la lasbevcit7",
+        "image": "lasbevcit7"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la aamanbev3x",
+        "image": "aamanbev3x"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la aamanbev1x",
+        "image": "aamanbev1x"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la sjmlahus29",
+        "image": "sjmlahus29"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la genroof01_128",
+        "image": "genroof01_128"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la sjmlahus27",
+        "image": "sjmlahus27"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la aamanbev8x",
+        "image": "aamanbev8x"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la aamanbev95x",
+        "image": "aamanbev95x"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la rooftiles1",
+        "image": "rooftiles1"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la genroof02_128",
+        "image": "genroof02_128"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la pavepat2_128",
+        "image": "pavepat2_128"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la wilsdoor_01_la",
+        "image": "wilsdoor_01_la"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la sjmhoodlawn9s",
+        "image": "sjmhoodlawn9s"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la sjmhoodalldr",
+        "image": "sjmhoodalldr"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la aamanbev94x",
+        "image": "aamanbev94x"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la aamanbev93x",
+        "image": "aamanbev93x"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la aamanbev92x",
+        "image": "aamanbev92x"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la cemebuild03_law",
+        "image": "cemebuild03_law"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la sjmlahus25",
+        "image": "sjmlahus25"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la sjmlahus26",
+        "image": "sjmlahus26"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la sjmlahus23",
+        "image": "sjmlahus23"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la lasjmhus21",
+        "image": "lasjmhus21"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la sjmlahus21",
+        "image": "sjmlahus21"
+    },
+    {
+        "texture_name": "bevmans01_la",
+        "object_texture": "3603 bevmans01_la sjmhoodaad",
+        "image": "sjmhoodaad"
+    },
+    {
+        "texture_name": "bighangarsfxr",
+        "object_texture": "3816 bighangarsfxr railgird32bit",
+        "image": "railgird32bit"
+    },
+    {
+        "texture_name": "bighangarsfxr",
+        "object_texture": "3816 bighangarsfxr ws_crossbeam1",
+        "image": "ws_crossbeam1"
+    },
+    {
+        "texture_name": "bighangarsfxr",
+        "object_texture": "3816 bighangarsfxr ws_breezeblocks",
+        "image": "ws_breezeblocks"
+    },
+    {
+        "texture_name": "bighangarsfxr",
+        "object_texture": "3816 bighangarsfxr ws_hangardoor",
+        "image": "ws_hangardoor"
+    },
+    {
+        "texture_name": "bigboxtemp1",
+        "object_texture": "9515 bigboxtemp1 carlot1_sfw",
+        "image": "carlot1_sfw"
+    },
+    {
+        "texture_name": "bigboxtemp1",
+        "object_texture": "9515 bigboxtemp1 shingles1",
+        "image": "shingles1"
+    },
+    {
+        "texture_name": "bigboxtemp1",
+        "object_texture": "9515 bigboxtemp1 board64_law",
+        "image": "board64_law"
+    },
+    {
+        "texture_name": "bigboxtemp1",
+        "object_texture": "9515 bigboxtemp1 mullcar01_law",
+        "image": "mullcar01_law"
+    },
+    {
+        "texture_name": "bigboxtemp1",
+        "object_texture": "9515 bigboxtemp1 lombard_build3_1",
+        "image": "lombard_build3_1"
+    },
+    {
+        "texture_name": "bigboxtemp1",
+        "object_texture": "9515 bigboxtemp1 lombard_build2_5",
+        "image": "lombard_build2_5"
+    },
+    {
+        "texture_name": "bigboxtemp1",
+        "object_texture": "9515 bigboxtemp1 poshground_sfw",
+        "image": "poshground_sfw"
+    },
+    {
+        "texture_name": "bigboxtemp1",
+        "object_texture": "9515 bigboxtemp1 garagedoor5_law",
+        "image": "garagedoor5_law"
+    },
+    {
+        "texture_name": "bigboxtemp1",
+        "object_texture": "9515 bigboxtemp1 poshbox3b",
+        "image": "poshbox3b"
+    },
+    {
+        "texture_name": "bigboxtemp1",
+        "object_texture": "9515 bigboxtemp1 poshbox3a",
+        "image": "poshbox3a"
+    },
+    {
+        "texture_name": "bigboxtemp1",
+        "object_texture": "9515 bigboxtemp1 poshbox3c",
+        "image": "poshbox3c"
+    },
+    {
+        "texture_name": "bigboxtemp1",
+        "object_texture": "9515 bigboxtemp1 ws_airportwin1",
+        "image": "ws_airportwin1"
+    },
+    {
+        "texture_name": "bigboxtemp1",
+        "object_texture": "9515 bigboxtemp1 redbrickground256",
+        "image": "redbrickground256"
+    },
+    {
+        "texture_name": "bigboxtemp1",
+        "object_texture": "9515 bigboxtemp1 acrooftop1256",
+        "image": "acrooftop1256"
+    },
+    {
+        "texture_name": "bigboxtemp1",
+        "object_texture": "9515 bigboxtemp1 sf_concrete1",
+        "image": "sf_concrete1"
+    },
+    {
+        "texture_name": "bigboxtemp1",
+        "object_texture": "9515 bigboxtemp1 sfn_grass1",
+        "image": "sfn_grass1"
+    },
+    {
+        "texture_name": "bigboxtemp1",
+        "object_texture": "9515 bigboxtemp1 patiodr_law",
+        "image": "patiodr_law"
+    },
+    {
+        "texture_name": "bigboxtemp1",
+        "object_texture": "9515 bigboxtemp1 lombard_build2_4",
+        "image": "lombard_build2_4"
+    },
+    {
+        "texture_name": "bigboxtemp1",
+        "object_texture": "9515 bigboxtemp1 lombard_build2_2",
+        "image": "lombard_build2_2"
+    },
+    {
+        "texture_name": "bigboxtemp1",
+        "object_texture": "9515 bigboxtemp1 poshbox2a",
+        "image": "poshbox2a"
+    },
+    {
+        "texture_name": "bigboxtemp1",
+        "object_texture": "9515 bigboxtemp1 poshbox2b",
+        "image": "poshbox2b"
+    },
+    {
+        "texture_name": "bigboxtemp1",
+        "object_texture": "9515 bigboxtemp1 poshbox2c",
+        "image": "poshbox2c"
+    },
+    {
+        "texture_name": "bigboxtemp1",
+        "object_texture": "9515 bigboxtemp1 tarmacplain_bank",
+        "image": "tarmacplain_bank"
+    },
+    {
+        "texture_name": "bigboxtemp1",
+        "object_texture": "9515 bigboxtemp1 browntin1",
+        "image": "browntin1"
+    },
+    {
+        "texture_name": "bigboxtemp1",
+        "object_texture": "9515 bigboxtemp1 int02_128",
+        "image": "int02_128"
+    },
+    {
+        "texture_name": "bigboxtemp1",
+        "object_texture": "9515 bigboxtemp1 rooftiles2",
+        "image": "rooftiles2"
+    },
+    {
+        "texture_name": "bigboxtemp1",
+        "object_texture": "9515 bigboxtemp1 ws_garagedoor3_white",
+        "image": "ws_garagedoor3_white"
+    },
+    {
+        "texture_name": "bigboxtemp1",
+        "object_texture": "9515 bigboxtemp1 ws_alley5_256_blank",
+        "image": "ws_alley5_256_blank"
+    },
+    {
+        "texture_name": "billbox",
+        "object_texture": "3083 billbox iron",
+        "image": "iron"
+    },
+    {
+        "texture_name": "billbox",
+        "object_texture": "3083 billbox billdetaily",
+        "image": "billdetaily"
+    },
+    {
+        "texture_name": "billbox",
+        "object_texture": "3083 billbox ADDWOOD",
+        "image": "ADDWOOD"
+    },
+    {
+        "texture_name": "billbox",
+        "object_texture": "3083 billbox Sprunk_postersign1",
+        "image": "Sprunk_postersign1"
+    },
+    {
+        "texture_name": "bikeskool",
+        "object_texture": "14603 bikeskool motel_wall3",
+        "image": "motel_wall3"
+    },
+    {
+        "texture_name": "bikeskool",
+        "object_texture": "14603 bikeskool lw_pistol_128",
+        "image": "lw_pistol_128"
+    },
+    {
+        "texture_name": "bikeskool",
+        "object_texture": "14603 bikeskool artish1",
+        "image": "artish1"
+    },
+    {
+        "texture_name": "bikeskool",
+        "object_texture": "14603 bikeskool dor_slider_16_32b",
+        "image": "dor_slider_16_32b"
+    },
+    {
+        "texture_name": "bikeskool",
+        "object_texture": "14603 bikeskool door_pan1_64_128",
+        "image": "door_pan1_64_128"
+    },
+    {
+        "texture_name": "bistro_alpha",
+        "object_texture": "3945 bistro_alpha creme128",
+        "image": "creme128"
+    },
+    {
+        "texture_name": "bigsfsave",
+        "object_texture": "15041 bigsfsave AH_strntiles",
+        "image": "AH_strntiles"
+    },
+    {
+        "texture_name": "bigsfsave",
+        "object_texture": "15041 bigsfsave mp_carter_tilewall",
+        "image": "mp_carter_tilewall"
+    },
+    {
+        "texture_name": "bigsfsave",
+        "object_texture": "15041 bigsfsave ah_greencarp",
+        "image": "ah_greencarp"
+    },
+    {
+        "texture_name": "bigsfsave",
+        "object_texture": "15041 bigsfsave AH_walltile6",
+        "image": "AH_walltile6"
+    },
+    {
+        "texture_name": "bigsfsave",
+        "object_texture": "15041 bigsfsave AH_flroortile9",
+        "image": "AH_flroortile9"
+    },
+    {
+        "texture_name": "bigsfsave",
+        "object_texture": "15041 bigsfsave ah_ceilpan1",
+        "image": "ah_ceilpan1"
+    },
+    {
+        "texture_name": "bigsfsave",
+        "object_texture": "15041 bigsfsave ah_utilbor2",
+        "image": "ah_utilbor2"
+    },
+    {
+        "texture_name": "bigsfsave",
+        "object_texture": "15041 bigsfsave ah_wpaper7",
+        "image": "ah_wpaper7"
+    },
+    {
+        "texture_name": "bigsfsave",
+        "object_texture": "15041 bigsfsave AH_grepaper2",
+        "image": "AH_grepaper2"
+    },
+    {
+        "texture_name": "bigsfsave",
+        "object_texture": "15041 bigsfsave AH_flrdiamonds",
+        "image": "AH_flrdiamonds"
+    },
+    {
+        "texture_name": "bigsfsave",
+        "object_texture": "15041 bigsfsave AH_wdpanscum",
+        "image": "AH_wdpanscum"
+    },
+    {
+        "texture_name": "bigsfsave",
+        "object_texture": "15041 bigsfsave AH_flroortile5",
+        "image": "AH_flroortile5"
+    },
+    {
+        "texture_name": "bigsfsave",
+        "object_texture": "15041 bigsfsave andydark",
+        "image": "andydark"
+    },
+    {
+        "texture_name": "bigsfsave",
+        "object_texture": "15041 bigsfsave windo_blinds",
+        "image": "windo_blinds"
+    },
+    {
+        "texture_name": "bigsfsave",
+        "object_texture": "15041 bigsfsave ah_wrnplnks",
+        "image": "ah_wrnplnks"
+    },
+    {
+        "texture_name": "bigsfsave",
+        "object_texture": "15041 bigsfsave AH_skt5",
+        "image": "AH_skt5"
+    },
+    {
+        "texture_name": "bigsfsave",
+        "object_texture": "15041 bigsfsave ah_utilbor1",
+        "image": "ah_utilbor1"
+    },
+    {
+        "texture_name": "bigsfsave",
+        "object_texture": "15041 bigsfsave carp11S",
+        "image": "carp11S"
+    },
+    {
+        "texture_name": "bigsfsave",
+        "object_texture": "15041 bigsfsave walp73S",
+        "image": "walp73S"
+    },
+    {
+        "texture_name": "bigsfsave",
+        "object_texture": "15041 bigsfsave wall6",
+        "image": "wall6"
+    },
+    {
+        "texture_name": "bitsnbobs",
+        "object_texture": "2023 bitsnbobs CJ_LIGHTWOOD",
+        "image": "CJ_LIGHTWOOD"
+    },
+    {
+        "texture_name": "bistro_plants",
+        "object_texture": "3946 bistro_plants starflower4",
+        "image": "starflower4"
+    },
+    {
+        "texture_name": "bistro_plants",
+        "object_texture": "3946 bistro_plants starflower2",
+        "image": "starflower2"
+    },
+    {
+        "texture_name": "bigoldbuild_sfe",
+        "object_texture": "10056 bigoldbuild_sfe roofthing2_sfe",
+        "image": "roofthing2_sfe"
+    },
+    {
+        "texture_name": "bigoldbuild_sfe",
+        "object_texture": "10056 bigoldbuild_sfe lanky4_sfe",
+        "image": "lanky4_sfe"
+    },
+    {
+        "texture_name": "bigoldbuild_sfe",
+        "object_texture": "10056 bigoldbuild_sfe lanky1_sfe",
+        "image": "lanky1_sfe"
+    },
+    {
+        "texture_name": "bigoldbuild_sfe",
+        "object_texture": "10056 bigoldbuild_sfe cluckbell02_law",
+        "image": "cluckbell02_law"
+    },
+    {
+        "texture_name": "bigoldbuild_sfe",
+        "object_texture": "10056 bigoldbuild_sfe cluckbell01_law",
+        "image": "cluckbell01_law"
+    },
+    {
+        "texture_name": "bigoldbuild_sfe",
+        "object_texture": "10056 bigoldbuild_sfe vgnburgwal3_256",
+        "image": "vgnburgwal3_256"
+    },
+    {
+        "texture_name": "bigoldbuild_sfe",
+        "object_texture": "10056 bigoldbuild_sfe sf_shop4",
+        "image": "sf_shop4"
+    },
+    {
+        "texture_name": "bigoldbuild_sfe",
+        "object_texture": "10056 bigoldbuild_sfe clubdoor1_256",
+        "image": "clubdoor1_256"
+    },
+    {
+        "texture_name": "bigoldbuild_sfe",
+        "object_texture": "10056 bigoldbuild_sfe sf_windos_3",
+        "image": "sf_windos_3"
+    },
+    {
+        "texture_name": "bigoldbuild_sfe",
+        "object_texture": "10056 bigoldbuild_sfe bigbrown2_sfe",
+        "image": "bigbrown2_sfe"
+    },
+    {
+        "texture_name": "bigoldbuild_sfe",
+        "object_texture": "10056 bigoldbuild_sfe bigbrown1_sfe",
+        "image": "bigbrown1_sfe"
+    },
+    {
+        "texture_name": "bigoldbuild_sfe",
+        "object_texture": "10056 bigoldbuild_sfe sfe_bigbuild1",
+        "image": "sfe_bigbuild1"
+    },
+    {
+        "texture_name": "bigoldbuild_sfe",
+        "object_texture": "10056 bigoldbuild_sfe bank_sfe3",
+        "image": "bank_sfe3"
+    },
+    {
+        "texture_name": "bigoldbuild_sfe",
+        "object_texture": "10056 bigoldbuild_sfe bank_sfe1",
+        "image": "bank_sfe1"
+    },
+    {
+        "texture_name": "bigoldbuild_sfe",
+        "object_texture": "10056 bigoldbuild_sfe alleys_sfe",
+        "image": "alleys_sfe"
+    },
+    {
+        "texture_name": "bigoldbuild_sfe",
+        "object_texture": "10056 bigoldbuild_sfe sf_windos_1",
+        "image": "sf_windos_1"
+    },
+    {
+        "texture_name": "bigoldbuild_sfe",
+        "object_texture": "10056 bigoldbuild_sfe sf_backaley1",
+        "image": "sf_backaley1"
+    },
+    {
+        "texture_name": "bigoldbuild_sfe",
+        "object_texture": "10056 bigoldbuild_sfe sfe_pinkbuild3",
+        "image": "sfe_pinkbuild3"
+    },
+    {
+        "texture_name": "bigoldbuild_sfe",
+        "object_texture": "10056 bigoldbuild_sfe lanky3_sfe",
+        "image": "lanky3_sfe"
+    },
+    {
+        "texture_name": "bigoldbuild_sfe",
+        "object_texture": "10056 bigoldbuild_sfe sf_windos_2",
+        "image": "sf_windos_2"
+    },
+    {
+        "texture_name": "bigoldbuild_sfe",
+        "object_texture": "10056 bigoldbuild_sfe sf_windos_13wall",
+        "image": "sf_windos_13wall"
+    },
+    {
+        "texture_name": "bigoldbuild_sfe",
+        "object_texture": "10056 bigoldbuild_sfe sfe_nicearch4",
+        "image": "sfe_nicearch4"
+    },
+    {
+        "texture_name": "bigoldbuild_sfe",
+        "object_texture": "10056 bigoldbuild_sfe sfe_arch1",
+        "image": "sfe_arch1"
+    },
+    {
+        "texture_name": "bjmptx",
+        "object_texture": "3108 bjmptx target_crv",
+        "image": "target_crv"
+    },
+    {
+        "texture_name": "bjmptx",
+        "object_texture": "3108 bjmptx target_nmbrs",
+        "image": "target_nmbrs"
+    },
+    {
+        "texture_name": "billbrdlawn",
+        "object_texture": "5818 billbrdlawn semi2Dirty",
+        "image": "semi2Dirty"
+    },
+    {
+        "texture_name": "billbrdlawn",
+        "object_texture": "5818 billbrdlawn bobobillboard1",
+        "image": "bobobillboard1"
+    },
+    {
+        "texture_name": "billbrdlawn",
+        "object_texture": "5818 billbrdlawn semi3Dirty",
+        "image": "semi3Dirty"
+    },
+    {
+        "texture_name": "billbrdlawn",
+        "object_texture": "5818 billbrdlawn semi1Dirty",
+        "image": "semi1Dirty"
+    },
+    {
+        "texture_name": "billbrd",
+        "object_texture": "1259 billbrd fence1",
+        "image": "fence1"
+    },
+    {
+        "texture_name": "billbrd",
+        "object_texture": "1259 billbrd ws_oldpainted2",
+        "image": "ws_oldpainted2"
+    },
+    {
+        "texture_name": "billbrd",
+        "object_texture": "1259 billbrd spotlight_64",
+        "image": "spotlight_64"
+    },
+    {
+        "texture_name": "billbrd",
+        "object_texture": "1259 billbrd bluemetal02",
+        "image": "bluemetal02"
+    },
+    {
+        "texture_name": "billbrd",
+        "object_texture": "1259 billbrd BBoardBack",
+        "image": "BBoardBack"
+    },
+    {
+        "texture_name": "blackwestran1_lae2",
+        "object_texture": "17510 blackwestran1_lae2 des_indrails",
+        "image": "des_indrails"
+    },
+    {
+        "texture_name": "blindinglite",
+        "object_texture": "14634 blindinglite ws_volumetriclight",
+        "image": "ws_volumetriclight"
     }
 ]
