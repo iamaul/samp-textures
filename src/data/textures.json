@@ -2311,13 +2311,13 @@
     },
     {
         "texture_name": "bakerybit2_sfse",
-        "object_texture": "10850 bakerybit2_sfse frate_door128red",
-        "image": "frate_door128red"
+        "object_texture": "10850 bakerybit2_sfse frate_doors128red",
+        "image": "frate_doors128red"
     },
     {
         "texture_name": "bakerybit2_sfse",
-        "object_texture": "10850 bakerybit2_sfse GB_truckdepo29",
-        "image": "GB_truckdepo29"
+        "object_texture": "10850 bakerybit2_sfse GB_truckdepot29",
+        "image": "GB_truckdepot29"
     },
     {
         "texture_name": "bakerybit2_sfse",
@@ -2411,8 +2411,8 @@
     }, 
     {
         "texture_name": "ballys01",
-        "object_texture": "8391 ballys01 ballyedge01_128",
-        "image": "ballyedge01_128"
+        "object_texture": "8391 ballys01 ballyledge01_128",
+        "image": "ballyledge01_128"
     }, 
     {
         "texture_name": "ballys01",
@@ -2451,17 +2451,17 @@
     }, 
     {
         "texture_name": "ballyswater",
-        "object_texture": "8487 ballyswater waterclean256",
-        "image": "waterclean256"
+        "object_texture": "8487 ballyswater waterclear256",
+        "image": "waterclear256"
     }, 
     {
-        "texture_name": "badlans",
-        "object_texture": "701 badlans sm_des_bush1",
+        "texture_name": "badlands",
+        "object_texture": "701 badlands sm_des_bush1",
         "image": "sm_des_bush1"
     },    
     {
-        "texture_name": "badlans",
-        "object_texture": "701 badlans newtreeleaves128",
+        "texture_name": "badlands",
+        "object_texture": "701 badlands newtreeleaves128",
         "image": "newtreeleaves128"
     },
     {
@@ -2685,6 +2685,21 @@
         "image": "gangshop10_LAe"
     },
     {
+        "texture_name": "barrio1_lae2",
+        "object_texture": "17508 barrio1_lae2 alleywall2",
+        "image": "alleywall2"
+    },
+    {
+        "texture_name": "barrio1_lae2",
+        "object_texture": "17508 barrio1_lae2 dockpave_256",
+        "image": "dockpave_256"
+    },
+    {
+        "texture_name": "barrio1_lae2",
+        "object_texture": "17508 barrio1_lae2 brickred",
+        "image": "brickred"
+    },
+    {
         "texture_name": "bdupshifi",
         "object_texture": "14806 bdupshifi Bdup2_TV",
         "image": "Bdup2_TV"
@@ -2718,21 +2733,6 @@
         "texture_name": "bball1",
         "object_texture": "1946 bball1 basketball2",
         "image": "basketball2"
-    },
-    {
-        "texture_name": "bball1",
-        "object_texture": "1946 bball1 alleywall2",
-        "image": "alleywall2"
-    },
-    {
-        "texture_name": "bball1",
-        "object_texture": "1946 bball1 dockpave_256",
-        "image": "dockpave_256"
-    },
-    {
-        "texture_name": "bball1",
-        "object_texture": "1946 bball1 brickred",
-        "image": "brickred"
     },
     {
         "texture_name": "bballx",
