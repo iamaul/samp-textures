@@ -35,8 +35,8 @@ const textureReducer = (state: State, action: Action): State => {
     switch (type) {
         case 'LOAD_MORE': {
             const newLength = Math.max(
-                40,
-                Math.min(texturesLength + 40, filteredTextures.length)
+                10,
+                Math.min(texturesLength + 10, filteredTextures.length)
             );
 
             return {
@@ -78,8 +78,8 @@ export const Main = ({ textures }: TextureProps) => {
     const initialState = {
         totalTextures: textures,
         filteredTextures: textures,
-        textures: textures.slice(0, 40),
-        texturesLength: 40,
+        textures: textures.slice(0, 10),
+        texturesLength: 10,
     }
 
     const [state, dispatch] = React.useReducer(textureReducer, initialState);
@@ -94,11 +94,11 @@ export const Main = ({ textures }: TextureProps) => {
 
     return (
         <Stack pt="8" w={['90%', '70%']}>
-            <Box mb="4">
+            <Box mb="3rem">
                 <FormControl>
                     <FormLabel>🔎 Search</FormLabel>
                     <Input
-                        placeholder="Keywords: door, wall, sign, etc.."
+                        placeholder="Keywords: door, wall, sign, floor, ceiling, etc..."
                         onChange={(e) => { filterOnSearch(e.target.value) }}
                     />
                 </FormControl>

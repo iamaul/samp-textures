@@ -1,8 +1,18 @@
 import * as React from 'react';
 
-import { Text, Flex, Box, Image, useColorMode, useToast } from '@chakra-ui/react';
+import { 
+    Text, 
+    Flex, 
+    Box, 
+    Image, 
+    useColorMode, 
+    useToast,
+    useColorModeValue
+} from '@chakra-ui/react';
 
 import { TextureType } from '@/model/Texture';
+
+import MotionBox from './MotionBox';
 
 export const Card = ({ texture_name, object_texture, image }: TextureType) => {
     const toast = useToast();
@@ -25,8 +35,8 @@ export const Card = ({ texture_name, object_texture, image }: TextureType) => {
 
     const { colorMode } = useColorMode();
 
-    const cardColor = { light: 'blue.50', dark: '#2b2b2b' };
-    const hoverCardColor = { light: 'blue.100', dark: '#202020' };
+    const cardColor = { light: 'gray.10', dark: '#2b2b2b' };
+    const hoverCardColor = { light: 'blue.50', dark: '#202020' };
 
     return (
         <Flex
@@ -37,7 +47,7 @@ export const Card = ({ texture_name, object_texture, image }: TextureType) => {
             borderRadius="lg"
             flexDirection="column"
             m="0 20px 20px 0"
-            boxShadow="0 1px 2px 0 rgba(0, 0, 0, .4)"
+            boxShadow="sm"
             bg={cardColor[colorMode]}
             textAlign="center"
             onClick={() => copyObjectTexture(object_texture)}
@@ -45,26 +55,54 @@ export const Card = ({ texture_name, object_texture, image }: TextureType) => {
             _hover={{ backgroundColor: `${hoverCardColor[colorMode]}` }}
             transition="all 200ms ease-in"
         >
-            <Flex
-                px="10px"
-                py="25px"
-                justifyContent="center"
-                w="100%"
-                wordBreak="break-all"
+            <MotionBox
+                position="relative"
+                textAlign="center"
+                whileHover={{ scale: 1.05 }}
+                role="group"
             >
-                <Image
-                    src={image ? `/images/${texture_name}/${image}.png` : '/questions.svg'}
-                    width="50%"
-                    height="50%"
-                    alt={`${image}`}
-                />
-            </Flex>
-            <Box px="10px" py="15px" wordBreak="break-word">
-                <Text>{object_texture}</Text>
-                <Box mt={4}>
+                <Flex
+                    px="10px"
+                    py="25px"
+                    justifyContent="center"
+                    w="100%"
+                    borderRadius="full"
+                    wordBreak="break-all"
+                >
+                    <Image
+                        src={image ? `/images/${texture_name}/${image}.png` : '/questions.svg'}
+                        width="9rem"
+                        height="12.5rem"
+                        borderRadius="sm"
+                        _groupHover={{ opacity: 0.5 }}
+                        style={{
+                            filter: `drop-shadow(0 0 0.10rem ${
+                                colorMode === "light" ? "gray" : "black"
+                            })`
+                        }}
+                        alt={`${image}`}
+                    />
+                </Flex>
+                <Box px="10px" py="15px" wordBreak="break-word" borderRadius="full">
                     <Text fontWeight="bold">{texture_name}</Text>
                 </Box>
-            </Box>
+                <Text
+                    textTransform="uppercase"
+                    fontSize="xs"
+                    fontWeight="bold"
+                    letterSpacing={2}
+                    textAlign="center"
+                    position="absolute"
+                    top="50%"
+                    left="50%"
+                    transform="translate(-50%, -50%)"
+                    visibility="hidden"
+                    color="white"
+                    _groupHover={{ visibility: "visible" }}
+                >
+                    {object_texture}
+                </Text>
+            </MotionBox>
         </Flex>
     )
 }

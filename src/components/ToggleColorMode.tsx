@@ -14,11 +14,10 @@ export const ToggleColorMode = () => {
             cursor="pointer"
         >
             <IconButton
-                aria-label='toggler color mode'
+                aria-label="toggle color mode"
                 icon={<Icon as={isDark ? FiMoon : FiSun} />}
                 onClick={toggleColorMode}
-                // variant='ghost'
-                borderRadius='full'
+                borderRadius="full"
             />
         </Box>
     )

@@ -1,8 +1,5 @@
-import { Text, Link } from '@chakra-ui/react';
-
 import { GetStaticProps, InferGetStaticPropsType } from 'next';
 import { NextSeo } from 'next-seo';
-import NextLink from 'next/link';
 
 import { Hero } from '@/components/Hero';
 import { Container } from '@/components/Container';
@@ -22,11 +19,7 @@ const Index = ({ textures }: InferGetStaticPropsType<typeof getStaticProps>) => 
       <Hero />
       <ToggleColorMode />
       <Main textures={textures} />
-      <Footer>
-        <Text fontSize="smaller">
-          Made with ❤️ by <NextLink href="https://iamaul.me" passHref><Link href="https://iamaul.me" target="_blank">iamaul</Link></NextLink>
-        </Text>
-      </Footer>
+      <Footer />
     </Container>
   </>
 );
