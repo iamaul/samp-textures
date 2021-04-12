@@ -2248,5 +2248,635 @@
         "texture_name": "ap_misc1bit",
         "object_texture": "1682 ap_misc1bit ap_radar",
         "image": "ap_radar"
+    },
+    {
+        "texture_name": "bakerybit_sfse",
+        "object_texture": "10856 bakerybit_sfse ws_oldwarehouse10c",
+        "image": "ws_oldwarehouse10c"
+    },
+    {
+        "texture_name": "bakerybit_sfse",
+        "object_texture": "10856 bakerybit_sfse ws_oldwarehouse10d",
+        "image": "ws_oldwarehouse10d"
+    },
+    {
+        "texture_name": "bakerybit_sfse",
+        "object_texture": "10856 bakerybit_sfse ws_oldwarehouse10a",
+        "image": "ws_oldwarehouse10a"
+    },
+    {
+        "texture_name": "bakerybit_sfse",
+        "object_texture": "10856 bakerybit_sfse ws_doubledoor4",
+        "image": "ws_doubledoor4"
+    },
+    {
+        "texture_name": "bakerybit_sfse",
+        "object_texture": "10856 bakerybit_sfse ws_dickgoblinmural",
+        "image": "ws_dickgoblinmural"
+    },
+    {
+        "texture_name": "bakerybit_sfse",
+        "object_texture": "10856 bakerybit_sfse windoresidential256",
+        "image": "windoresidential256"
+    },
+    {
+        "texture_name": "bakerybit_sfse",
+        "object_texture": "10856 bakerybit_sfse ws_altz_wall7",
+        "image": "ws_altz_wall7"
+    },
+    {
+        "texture_name": "bakerybit2_sfse",
+        "object_texture": "10850 bakerybit2_sfse frate64_yellow",
+        "image": "frate64_yellow"
+    },
+    {
+        "texture_name": "bakerybit2_sfse",
+        "object_texture": "10850 bakerybit2_sfse frate_doors64yellow",
+        "image": "frate_doors64yellow"
+    },
+    {
+        "texture_name": "bakerybit2_sfse",
+        "object_texture": "10850 bakerybit2_sfse frate_doors64",
+        "image": "frate_doors64"
+    },
+    {
+        "texture_name": "bakerybit2_sfse",
+        "object_texture": "10850 bakerybit2_sfse frate64_blue",
+        "image": "frate64_blue"
+    },
+    {
+        "texture_name": "bakerybit2_sfse",
+        "object_texture": "10850 bakerybit2_sfse frate64_red",
+        "image": "frate64_red"
+    },
+    {
+        "texture_name": "bakerybit2_sfse",
+        "object_texture": "10850 bakerybit2_sfse frate_door128red",
+        "image": "frate_door128red"
+    },
+    {
+        "texture_name": "bakerybit2_sfse",
+        "object_texture": "10850 bakerybit2_sfse GB_truckdepo29",
+        "image": "GB_truckdepo29"
+    },
+    {
+        "texture_name": "bakerybit2_sfse",
+        "object_texture": "10850 bakerybit2_sfse ws_altz_wall5",
+        "image": "ws_altz_wall5"
+    },
+    {
+        "texture_name": "backroad_sfs",
+        "object_texture": "10426 backroad_sfs retainwall1",
+        "image": "retainwall1"
+    },
+    {
+        "texture_name": "backroad_sfs",
+        "object_texture": "10426 backroad_sfs Bow_church_dirt",
+        "image": "Bow_church_dirt"
+    },
+    {
+        "texture_name": "ballysign01",
+        "object_texture": "8394 ballysign01 hortonsnug2_256",
+        "image": "hortonsnug2_256"
+    },
+    {
+        "texture_name": "ballysign01",
+        "object_texture": "8394 ballysign01 HighRoller01_256",
+        "image": "HighRoller01_256"
+    },
+    {
+        "texture_name": "ballysign01",
+        "object_texture": "8394 ballysign01 vgnmetaltopwal1_256",
+        "image": "vgnmetaltopwal1_256"
+    },
+    {
+        "texture_name": "ballysign01",
+        "object_texture": "8394 ballysign01 vgnpawnlng_256",
+        "image": "vgnpawnlng_256"
+    },
+    {
+        "texture_name": "ballysign01",
+        "object_texture": "8394 ballysign01 ws_airpassage",
+        "image": "ws_airpassage"
+    },
+    {
+        "texture_name": "bballvgnint",
+        "object_texture": "3452 bballvgnint bballconcrete3_256",
+        "image": "bballconcrete3_256"
+    },
+    {
+        "texture_name": "bballvgnint",
+        "object_texture": "3452 bballvgnint bballconcrete4_256",
+        "image": "bballconcrete4_256"
+    },
+    {
+        "texture_name": "bballvgnint",
+        "object_texture": "3452 bballvgnint bballconcrete2_256",
+        "image": "bballconcrete2_256"
+    },
+    {
+        "texture_name": "bballvgnint",
+        "object_texture": "3452 bballvgnint bballconcrete1_256",
+        "image": "bballconcrete1_256"
+    },
+    {
+        "texture_name": "bballvgnint",
+        "object_texture": "3452 bballvgnint bballconcrete5_256",
+        "image": "bballconcrete5_256"
+    },
+    {
+        "texture_name": "bballvgnint",
+        "object_texture": "3452 bballvgnint Bow_Abattoir_Conc2",
+        "image": "Bow_Abattoir_Conc2"
+    },
+    {
+        "texture_name": "bballvgnint",
+        "object_texture": "3452 bballvgnint carparkwall1_256",
+        "image": "carparkwall1_256"
+    },
+    {
+        "texture_name": "ballypillar01",
+        "object_texture": "3437 ballypillar01 ballywall01_64",
+        "image": "ballywall01_64"
+    },
+    {
+        "texture_name": "ballys01",
+        "object_texture": "8391 ballys01 ws_floortiles4",
+        "image": "ws_floortiles4"
+    }, 
+    {
+        "texture_name": "ballys01",
+        "object_texture": "8391 ballys01 ballywall02_128",
+        "image": "ballywall02_128"
+    }, 
+    {
+        "texture_name": "ballys01",
+        "object_texture": "8391 ballys01 ballyedge01_128",
+        "image": "ballyedge01_128"
+    }, 
+    {
+        "texture_name": "ballys01",
+        "object_texture": "8391 ballys01 greyground256128",
+        "image": "greyground256128"
+    }, 
+    {
+        "texture_name": "ballys01",
+        "object_texture": "8391 ballys01 ballywindw02_128",
+        "image": "ballywindw02_128"
+    }, 
+    {
+        "texture_name": "ballys01",
+        "object_texture": "8391 ballys01 ballywindw01_128",
+        "image": "ballywindw01_128"
+    }, 
+    {
+        "texture_name": "ballys01",
+        "object_texture": "8391 ballys01 casinolightsblu_128",
+        "image": "casinolightsblu_128"
+    }, 
+    {
+        "texture_name": "ballys01",
+        "object_texture": "8391 ballys01 CJ_blackplastic",
+        "image": "CJ_blackplastic"
+    }, 
+    {
+        "texture_name": "ballys01",
+        "object_texture": "8391 ballys01 ballydoor01_128",
+        "image": "ballydoor01_128"
+    },
+    {
+        "texture_name": "ballys01",
+        "object_texture": "8391 ballys01 vgncorpdoor1_512",
+        "image": "vgncorpdoor1_512"
+    }, 
+    {
+        "texture_name": "ballyswater",
+        "object_texture": "8487 ballyswater waterclean256",
+        "image": "waterclean256"
+    }, 
+    {
+        "texture_name": "badlans",
+        "object_texture": "701 badlans sm_des_bush1",
+        "image": "sm_des_bush1"
+    },    
+    {
+        "texture_name": "badlans",
+        "object_texture": "701 badlans newtreeleaves128",
+        "image": "newtreeleaves128"
+    },
+    {
+        "texture_name": "ballys02",
+        "object_texture": "8486 ballys02 Grass_concpath_128HV",
+        "image": "Grass_concpath_128HV"
+    },
+    {
+        "texture_name": "ballys02",
+        "object_texture": "8486 ballys02 walltiles_128",
+        "image": "walltiles_128"
+    },
+    {
+        "texture_name": "barrierblk",
+        "object_texture": "4510 barrierblk yellow_64",
+        "image": "yellow_64"
+    },
+    {
+        "texture_name": "barrierblk",
+        "object_texture": "4510 barrierblk warnsigns2",
+        "image": "warnsigns2"
+    },
+    {
+        "texture_name": "barrierblk",
+        "object_texture": "4510 barrierblk warnsigns1",
+        "image": "warnsigns1"
+    },
+    {
+        "texture_name": "bendytunnel_sfse",
+        "object_texture": "11100 bendytunnel_sfse Bow_sub_wallshine",
+        "image": "Bow_sub_wallshine"
+    },
+    {
+        "texture_name": "bendytunnel_sfse",
+        "object_texture": "11100 bendytunnel_sfse Bow_sub_walltiles",
+        "image": "Bow_sub_walltiles"
+    },
+    {
+        "texture_name": "bendytunnel_sfse",
+        "object_texture": "11100 bendytunnel_sfse blackmetal",
+        "image": "Bow_sub_wallshine"
+    },
+    {
+        "texture_name": "bendytunnel_sfse",
+        "object_texture": "11100 bendytunnel_sfse ws_altz_wall10b",
+        "image": "ws_altz_wall10b"
+    },
+    {
+        "texture_name": "barrierm",
+        "object_texture": "1282 barrierm orangebarrier2",
+        "image": "orangebarrier2"
+    },
+    {
+        "texture_name": "baseballground_sfs",
+        "object_texture": "10385 baseballground_sfs ws_baseballdirt",
+        "image": "ws_baseballdirt"
+    },
+    {
+        "texture_name": "baseballground_sfs",
+        "object_texture": "10385 baseballground_sfs ws_football_lines2",
+        "image": "ws_football_lines2"
+    },
+    {
+        "texture_name": "baseballground_sfs",
+        "object_texture": "10385 baseballground_sfs Bow_church_dirt_to_grass_side_t",
+        "image": "Bow_church_dirt_to_grass_side_t"
+    },
+    {
+        "texture_name": "barrio1_lae",
+        "object_texture": "5397 barrio1_lae closedblank1_256",
+        "image": "closedblank1_256"
+    },
+    {
+        "texture_name": "barrio1_lae",
+        "object_texture": "5397 barrio1_lae sw_wind16",
+        "image": "sw_wind16"
+    },
+    {
+        "texture_name": "barrio1_lae",
+        "object_texture": "5397 barrio1_lae dirtgaz64b",
+        "image": "dirtgaz64b"
+    },
+    {
+        "texture_name": "barrio1_lae",
+        "object_texture": "5397 barrio1_lae cargo7_128",
+        "image": "cargo7_128"
+    },
+    {
+        "texture_name": "barrio1_lae",
+        "object_texture": "5397 barrio1_lae carwash_256",
+        "image": "carwash_256"
+    },
+    {
+        "texture_name": "barrio1_lae",
+        "object_texture": "5397 barrio1_lae telewires_law",
+        "image": "telewires_law"
+    },
+    {
+        "texture_name": "barrio1_lae",
+        "object_texture": "5397 barrio1_lae wshbrsh1las",
+        "image": "wshbrsh1las"
+    },
+    {
+        "texture_name": "barrio1_lae",
+        "object_texture": "5397 barrio1_lae snpdwargrn1",
+        "image": "snpdwargrn1"
+    },
+    {
+        "texture_name": "barrio1_lae",
+        "object_texture": "5397 barrio1_lae crossing_law",
+        "image": "crossing_law"
+    },
+    {
+        "texture_name": "barrio1_lae",
+        "object_texture": "5397 barrio1_lae concretenewgery256",
+        "image": "concretenewgery256"
+    },
+    {
+        "texture_name": "barrio1_lae",
+        "object_texture": "5397 barrio1_lae gassign1_256",
+        "image": "gassign1_256"
+    },
+    {
+        "texture_name": "barrio1_lae",
+        "object_texture": "5397 barrio1_lae roof06L256",
+        "image": "roof06L256"
+    },
+    {
+        "texture_name": "barrio1_lae",
+        "object_texture": "5397 barrio1_lae corporate3green_128",
+        "image": "corporate3green_128"
+    },
+    {
+        "texture_name": "barrio1_lae",
+        "object_texture": "5397 barrio1_lae rufwaldock1",
+        "image": "rufwaldock1"
+    },
+    {
+        "texture_name": "barrio1_lae",
+        "object_texture": "5397 barrio1_lae sanpedocka1",
+        "image": "sanpedocka1"
+    },
+    {
+        "texture_name": "barrelexpos",
+        "object_texture": "1252 barrelexpos atm",
+        "image": "atm"
+    },
+    {
+        "texture_name": "bar_chainlink",
+        "object_texture": "982 bar_chainlink awirex2",
+        "image": "awirex2"
+    },
+    {
+        "texture_name": "bar_chainlink",
+        "object_texture": "982 bar_chainlink sjmshopBK",
+        "image": "sjmshopBK"
+    },
+    {
+        "texture_name": "barrier",
+        "object_texture": "1949 barrier pierlegs",
+        "image": "pierlegs"
+    },
+    {
+        "texture_name": "barrier",
+        "object_texture": "1949 barrier barrier_stripe",
+        "image": "barrier_stripe"
+    },
+    {
+        "texture_name": "baseball_sfsx",
+        "object_texture": "3819 baseball_sfsx helipad_mesh_t",
+        "image": "helipad_mesh_t"
+    },
+    {
+        "texture_name": "baseball_sfsx",
+        "object_texture": "3819 baseball_sfsx helipad_strutT",
+        "image": "helipad_strutT"
+    },
+    {
+        "texture_name": "baseball_sfsx",
+        "object_texture": "3819 baseball_sfsx telepole128",
+        "image": "telepole128"
+    },    
+    {
+        "texture_name": "bball_hpx",
+        "object_texture": "3128 bball_hpx wire2",
+        "image": "wire2"
+    },
+    {
+        "texture_name": "bbpcpx",
+        "object_texture": "3096 bbpcpx bluepink64",
+        "image": "bluepink64"
+    },    
+    {
+        "texture_name": "bbpcpx",
+        "object_texture": "3096 bbpcpx blugrad32",
+        "image": "blugrad32"
+    },
+    {
+        "texture_name": "barrio1_lae2",
+        "object_texture": "17508 barrio1_lae2 gangsign4_LAe",
+        "image": "gangsign4_LAe"
+    },
+    {
+        "texture_name": "barrio1_lae2",
+        "object_texture": "17508 barrio1_lae2 gangsign3_LAe",
+        "image": "gangsign3_LAe"
+    },
+    {
+        "texture_name": "barrio1_lae2",
+        "object_texture": "17508 barrio1_lae2 gangshop12_LAe",
+        "image": "gangshop12_LAe"
+    },
+    {
+        "texture_name": "barrio1_lae2",
+        "object_texture": "17508 barrio1_lae2 gangshop11_LAe",
+        "image": "gangshop11_LAe"
+    },
+    {
+        "texture_name": "barrio1_lae2",
+        "object_texture": "17508 barrio1_lae2 gangshop10_LAe",
+        "image": "gangshop10_LAe"
+    },
+    {
+        "texture_name": "bdupshifi",
+        "object_texture": "14806 bdupshifi Bdup2_TV",
+        "image": "Bdup2_TV"
+    },
+    {
+        "texture_name": "bdupshifi",
+        "object_texture": "14806 bdupshifi Bdup2_wood",
+        "image": "Bdup2_wood"
+    },
+    {
+        "texture_name": "bdupshifi",
+        "object_texture": "14806 bdupshifi Bdup2_CD",
+        "image": "Bdup2_CD"
+    },
+    {
+        "texture_name": "bdupshifi",
+        "object_texture": "14806 bdupshifi Bdup2_amp",
+        "image": "Bdup2_amp"
+    },
+    {
+        "texture_name": "bdupshifi",
+        "object_texture": "14806 bdupshifi Bdup2_speakers",
+        "image": "Bdup2_speakers"
+    },
+    {
+        "texture_name": "bdcabinets",
+        "object_texture": "2020 bdcabinets sideboard1",
+        "image": "sideboard1"
+    },
+    {
+        "texture_name": "bball1",
+        "object_texture": "1946 bball1 basketball2",
+        "image": "basketball2"
+    },
+    {
+        "texture_name": "bball1",
+        "object_texture": "1946 bball1 alleywall2",
+        "image": "alleywall2"
+    },
+    {
+        "texture_name": "bball1",
+        "object_texture": "1946 bball1 dockpave_256",
+        "image": "dockpave_256"
+    },
+    {
+        "texture_name": "bball1",
+        "object_texture": "1946 bball1 brickred",
+        "image": "brickred"
+    },
+    {
+        "texture_name": "bballx",
+        "object_texture": "3065 bballx bball_fake_light",
+        "image": "bball_fake_light"
+    },
+    {
+        "texture_name": "bballcpark1",
+        "object_texture": "7555 bballcpark1 vgspshrailing1",
+        "image": "vgspshrailing1"
+    },
+    {
+        "texture_name": "bballcpark1",
+        "object_texture": "7555 bballcpark1 vgncpark1_256",
+        "image": "vgncpark1_256"
+    },
+    {
+        "texture_name": "bballcpark1",
+        "object_texture": "7555 bballcpark1 backstageceiling1_128",
+        "image": "backstageceiling1_128"
+    },
+    {
+        "texture_name": "bballcpark1",
+        "object_texture": "7555 bballcpark1 ws_carparknew2",
+        "image": "ws_carparknew2"
+    },
+    {
+        "texture_name": "bballcpark1",
+        "object_texture": "7555 bballcpark1 ws_carparknew2a",
+        "image": "ws_carparknew2a"
+    },
+    {
+        "texture_name": "bballcpark1",
+        "object_texture": "7555 bballcpark1 curbyell_64H",
+        "image": "curbyell_64H"
+    },
+    {
+        "texture_name": "bballcpark1",
+        "object_texture": "7555 bballcpark1 ws_carparknew1",
+        "image": "ws_carparknew1"
+    },
+    {
+        "texture_name": "bdupslight",
+        "object_texture": "14807 bdupslight Bdup2_Light",
+        "image": "Bdup2_Light"
+    },
+    {
+        "texture_name": "bdupsfurn",
+        "object_texture": "14805 bdupsfurn Bdup_Caps",
+        "image": "Bdup_Caps"
+    },
+    {
+        "texture_name": "bdupsfurn",
+        "object_texture": "14805 bdupsfurn Bdup_Pills",
+        "image": "Bdup_Pills"
+    },
+    {
+        "texture_name": "bdupsfurn",
+        "object_texture": "14805 bdupsfurn Bdup_CrackPipe",
+        "image": "Bdup_CrackPipe"
+    },
+    {
+        "texture_name": "bdupsfurn",
+        "object_texture": "14805 bdupsfurn Bdup_Crack",
+        "image": "Bdup_Crack"
+    },
+    {
+        "texture_name": "bdupsfurn",
+        "object_texture": "14805 bdupsfurn Bdup_Ashtray",
+        "image": "Bdup_Ashtray"
+    },
+    {
+        "texture_name": "bdupsfurn",
+        "object_texture": "14805 bdupsfurn Bdup2_Lamp",
+        "image": "Bdup2_Lamp"
+    },
+    {
+        "texture_name": "bdupsfurn",
+        "object_texture": "14805 bdupsfurn Bdup2_Ttop2",
+        "image": "Bdup2_Ttop2"
+    },
+    {
+        "texture_name": "bdupsfurn",
+        "object_texture": "14805 bdupsfurn Bdup2_Ttop1",
+        "image": "Bdup2_Ttop1"
+    },
+    {
+        "texture_name": "bdupsfurn",
+        "object_texture": "14805 bdupsfurn blacksofa01",
+        "image": "blacksofa01"
+    },
+    {
+        "texture_name": "bdwinx",
+        "object_texture": "3032 bdwinx gangwin3_LAe",
+        "image": "gangwin3_LAe"
+    },
+    {
+        "texture_name": "bdwinx",
+        "object_texture": "3032 bdwinx ct_canopy",
+        "image": "ct_canopy"
+    },
+    {
+        "texture_name": "bdupshouse_lae",
+        "object_texture": "5520 bdupshouse_lae gangwin4_LAe",
+        "image": "gangwin4_LAe"
+    },
+    {
+        "texture_name": "bdupshouse_lae",
+        "object_texture": "5520 bdupshouse_lae compdoor2_LAe",
+        "image": "compdoor2_LAe"
+    },
+    {
+        "texture_name": "bdupshouse_lae",
+        "object_texture": "5520 bdupshouse_lae compdoor4_LAe",
+        "image": "compdoor4_LAe"
+    },
+    {
+        "texture_name": "bdupshouse_lae",
+        "object_texture": "5520 bdupshouse_lae shingles3",
+        "image": "shingles3"
+    },
+    {
+        "texture_name": "bdupshouse_lae",
+        "object_texture": "5520 bdupshouse_lae sw_woodflloor",
+        "image": "sw_woodflloor"
+    },
+    {
+        "texture_name": "bdupshouse_lae",
+        "object_texture": "5520 bdupshouse_lae awningsides2",
+        "image": "awningsides2"
+    },
+    {
+        "texture_name": "bdupshouse_lae",
+        "object_texture": "5520 bdupshouse_lae comptwall23",
+        "image": "comptwall23"
+    },
+    {
+        "texture_name": "bdupshouse_lae",
+        "object_texture": "5520 bdupshouse_lae ws_boxhouse_wins3",
+        "image": "ws_boxhouse_wins3"
+    },
+    {
+        "texture_name": "beach_lae2",
+        "object_texture": "17953 beach_lae2 block2_low",
+        "image": "block2_low"
     }
 ]
