@@ -15,18 +15,19 @@ import { TextureType } from '@/model/Texture';
 
 import MotionBox from './MotionBox';
 
-import switchOnSound from 'public/sounds/switch-on.mp3';
+import switchOnSound from '~/public/sounds/switch-on.mp3';
 
-export const Card = ({ texture_name, object_texture, image }: TextureType) => {
+export const Card = ({ texture_name, raw_code, image }: TextureType) => {
     const toast = useToast();
     const [play] = useSound(switchOnSound);
 
-    const copyObjectTexture = async (object_texture: string) => {
+    const copyObjectTexture = async (raw_code: string) => {
         if (navigator && navigator.clipboard) {
-            await navigator.clipboard.writeText(object_texture);
+            await navigator.clipboard.writeText(raw_code);
             toast.closeAll();
 
             play();
+
             toast({
                 title: '🤩',
                 description: `Copied texture ${texture_name} to your clipboard`,
@@ -55,7 +56,7 @@ export const Card = ({ texture_name, object_texture, image }: TextureType) => {
             boxShadow="sm"
             bg={cardColor[colorMode]}
             textAlign="center"
-            onClick={() => copyObjectTexture(object_texture)}
+            onClick={() => copyObjectTexture(raw_code)}
             cursor="pointer"
             _hover={{ backgroundColor: `${hoverCardColor[colorMode]}` }}
             transition="all 200ms ease-in"
@@ -105,7 +106,7 @@ export const Card = ({ texture_name, object_texture, image }: TextureType) => {
                     color="white"
                     _groupHover={{ visibility: "visible" }}
                 >
-                    {object_texture}
+                    {raw_code}
                 </Text>
             </MotionBox>
         </Flex>

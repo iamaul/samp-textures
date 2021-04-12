@@ -57,8 +57,8 @@ const textureReducer = (state: State, action: Action): State => {
                 }
             }
 
-            const searchResults = totalTextures.filter(({ object_texture }) =>
-                object_texture.toLowerCase().includes(searchTerm)
+            const searchResults = totalTextures.filter(({ raw_code }) =>
+                raw_code.toLowerCase().includes(searchTerm)
             )
 
             return {
@@ -110,7 +110,7 @@ export const Main = ({ textures }: TextureProps) => {
                 alignItems="center"
             >
                 {state.textures.map((e) => (
-                    <Card texture_name={e.texture_name} object_texture={e.object_texture} image={e.image} key={e.object_texture} />
+                    <Card texture_name={e.texture_name} raw_code={e.raw_code} image={e.image} key={e.raw_code} />
                 ))}
                 {state.textures.length === 0 && (
                     <Text my="8">No texture found.</Text>

@@ -1,5 +1,5 @@
 export interface TextureType {
     texture_name: string;
-    object_texture: string;
+    raw_code: string;
     image?: string;
 }
