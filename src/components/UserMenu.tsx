@@ -10,7 +10,6 @@ import {
     Avatar 
 } from '@chakra-ui/react';
 
-import { FiUser } from 'react-icons/fi';
 import { FaSignInAlt, FaSignOutAlt } from 'react-icons/fa';
 
 import { useSession } from 'next-auth/client';
@@ -29,25 +28,16 @@ export const UserMenu = () => {
                 zIndex="1000"
             >
                 <Menu>
-                    <MenuButton
-                        as={Avatar}
-                        aria-label="Options"
-                        borderRadius="full"
-                        cursor="pointer"
-                    >
-                        {session ? (
-                            <>
-                                <Tooltip hasArrow label={session.user.name} bg="red.300">
-                                    <Avatar name={session.user.name} src={session.user.image} />
-                                </Tooltip>
-                            </>) : (
-                                <>
-                                    <Tooltip hasArrow label="Guest" bg="red.300">
-                                        <Avatar icon={<FiUser />} />
-                                    </Tooltip>
-                                </>
-                            )}
-                    </MenuButton>
+                    <Tooltip hasArrow label={session ? session.user.name : 'Guest'} bg="red.300">
+                        <MenuButton
+                            as={Avatar}
+                            aria-label="Options"
+                            borderRadius="full"
+                            cursor="pointer"
+                        >
+                            {session ? (<Avatar name={session.user.name} src={session.user.image} />) : (<Avatar />)}
+                        </MenuButton>
+                    </Tooltip>
                     <MenuList>
                         {session ? (
                             <>
