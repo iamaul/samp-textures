@@ -27,8 +27,8 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
-    "src/pages/_app.tsx"
-  ],
+    "src/pages/_app.tsx",
+    "src/pages/api/auth/[...nextauth].ts"],
   "exclude": [
     "node_modules"
   ]
