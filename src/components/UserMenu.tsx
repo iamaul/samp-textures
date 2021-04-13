@@ -7,7 +7,8 @@ import {
     MenuList,
     MenuItem,
     MenuGroup,
-    MenuDivider 
+    MenuDivider,
+    Avatar 
 } from '@chakra-ui/react';
 import { FiUser } from 'react-icons/fi';
 
@@ -30,7 +31,7 @@ export const UserMenu = () => {
                     <MenuButton
                         as={Button}
                         aria-label="Options"
-                        leftIcon={session ? session.user.image : <Icon as={FiUser} />}
+                        leftIcon={session ? <Avatar name={session.user.name} src={session.user.image} /> : <Icon as={FiUser} />}
                         borderRadius="full"
                     >
                         {session ? session.user.name : 'Guest'}
