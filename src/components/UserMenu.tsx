@@ -40,7 +40,7 @@ export const UserMenu = () => {
                             <>
                                 <MenuGroup title="Profile">
                                     <MenuItem>My Account</MenuItem>
-                                    <MenuItem as={NextLink} href={'/api/auth/signout'}>Sign Out</MenuItem>
+                                    <MenuItem><NextLink href={'/api/auth/signout'}>Sign Out</NextLink></MenuItem>
                                 </MenuGroup>
                                 <MenuDivider />
                                 <MenuGroup title="Help">
@@ -55,7 +55,6 @@ export const UserMenu = () => {
                                         Sign In
                                     </MenuItem>
                                 </NextLink>
-                                
                             </>
                         )}
                     </MenuList>

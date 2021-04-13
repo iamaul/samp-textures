@@ -12,7 +12,7 @@ const options = {
         Providers.Discord({
             clientId: process.env.DISCORD_CLIENT_ID,
             clientSecret: process.env.DISCORD_CLIENT_SECRET,
-            authorizationUrl: 'https://discord.com/api/oauth2/authorize?client_id=831519925615984691&redirect_uri=https%3A%2F%2Fsamp-textures.iamaul.me&response_type=code&scope=identify%20email'
+            authorizationUrl: 'https://discord.com/api/oauth2/authorize?client_id=831519925615984691&redirect_uri=https%3A%2F%2Fsamp-textures.iamaul.me%2Fapi%2Fauth%2Fcallback%2Fdiscord&response_type=code&scope=identify%20email'
         }),
     ],
     // debug: process.env.NODE_ENV === 'development',
