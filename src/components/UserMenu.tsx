@@ -29,18 +29,17 @@ export const UserMenu = () => {
             >
                 <Menu>
                     <MenuButton
-                        as={Button}
+                        as={Avatar}
                         aria-label="Options"
-                        leftIcon={session ? <Avatar name={session.user.name} src={session.user.image} /> : <Icon as={FiUser} />}
                         borderRadius="full"
                     >
-                        {session ? session.user.name : 'Guest'}
+                        {session ? (<Avatar name={session.user.name} src={session.user.image} />) : (<Avatar icon={<FiUser />} />)}
                     </MenuButton>
                     <MenuList>
                         {session ? (
                             <>
                                 <MenuGroup title="Profile">
-                                    <MenuItem>My Account</MenuItem>
+                                    <MenuItem>{session.user.name}</MenuItem>
                                     <NextLink href={'/api/auth/signout'}><MenuItem>Sign Out</MenuItem></NextLink>
                                 </MenuGroup>
                                 <MenuDivider />
