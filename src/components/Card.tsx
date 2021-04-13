@@ -17,7 +17,7 @@ import MotionBox from './MotionBox';
 
 import switchOnSound from '~/public/sounds/switch-on.mp3';
 
-export const Card = ({ texture_name, raw_code, image }: TextureType) => {
+export const Card = ({ texture_name, raw_code, texture_image }: TextureType) => {
     const toast = useToast();
     const [play] = useSound(switchOnSound);
 
@@ -76,7 +76,7 @@ export const Card = ({ texture_name, raw_code, image }: TextureType) => {
                     wordBreak="break-all"
                 >
                     <Image
-                        src={image ? `/images/${texture_name}/${image}.png` : '/questions.svg'}
+                        src={texture_image ? `/images/${texture_name}/${texture_image}.png` : '/questions.svg'}
                         width="9rem"
                         height="12.5rem"
                         borderRadius="sm"
@@ -86,7 +86,7 @@ export const Card = ({ texture_name, raw_code, image }: TextureType) => {
                                 colorMode === "light" ? "gray" : "black"
                             })`
                         }}
-                        alt={`${image}`}
+                        alt={`${texture_image}`}
                     />
                 </Flex>
                 <Box px="10px" py="15px" wordBreak="break-word" borderRadius="full">

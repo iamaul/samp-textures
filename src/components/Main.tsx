@@ -5,6 +5,7 @@ import {
     Stack,
     Flex,
     Text,
+    Image,
     FormLabel,
     FormControl,
 } from '@chakra-ui/react';  
@@ -110,10 +111,13 @@ export const Main = ({ textures }: TextureProps) => {
                 alignItems="center"
             >
                 {state.textures.map((e) => (
-                    <Card texture_name={e.texture_name} raw_code={e.raw_code} image={e.image} key={e.raw_code} />
+                    <Card texture_name={e.texture_name} raw_code={e.raw_code} texture_image={e.texture_image} key={e.raw_code} />
                 ))}
                 {state.textures.length === 0 && (
-                    <Text my="8">No texture found.</Text>
+                    <Box width="40%" margin="0 auto">
+                        <Image src="/pixeltrue-seo.svg" />
+                        <Text textAlign="center" fontWeight="bold">No texture found</Text>
+                    </Box>
                 )}
                 <Intersection onVisible={() => loadMore()} />
             </Flex>

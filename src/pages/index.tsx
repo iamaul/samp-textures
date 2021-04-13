@@ -6,6 +6,7 @@ import { Hero } from '@/components/Hero';
 import { Container } from '@/components/Container';
 import { Main } from '@/components/Main';
 import { ToggleColorMode } from '@/components/ToggleColorMode';
+import { ScrollToTop } from '@/components/ScrollToTop';
 import { Footer } from '@/components/Footer';
 import { TextureType } from '@/model/Texture';
 
@@ -38,6 +39,7 @@ const Index = ({ textures }: InferGetStaticPropsType<typeof getStaticProps>) => 
       <Hero />
       <ToggleColorMode />
       <Main textures={textures} />
+      <ScrollToTop />
       <Footer />
     </Container>
   </>
